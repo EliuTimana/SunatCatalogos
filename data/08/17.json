@@ -1,0 +1,82 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Venta lnterna"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Exportación de bienes"
+  },
+  {
+    "codigo": "03",
+    "descripcion": "No Domiciliados"
+  },
+  {
+    "codigo": "04",
+    "descripcion": "Venta Interna – Anticipos"
+  },
+  {
+    "codigo": "05",
+    "descripcion": "Venta Itinerante"
+  },
+  {
+    "codigo": "06",
+    "descripcion": "Factura Guía"
+  },
+  {
+    "codigo": "07",
+    "descripcion": "Venta Arroz Pilado"
+  },
+  {
+    "codigo": "08",
+    "descripcion": "Factura - Comprobante de Percepción"
+  },
+  {
+    "codigo": "10",
+    "descripcion": "Factura - Guía remitente"
+  },
+  {
+    "codigo": "11",
+    "descripcion": "Factura - Guía transportista"
+  },
+  {
+    "codigo": "12",
+    "descripcion": "Boleta de venta – Comprobante de Percepción."
+  },
+  {
+    "codigo": "13",
+    "descripcion": "Gasto Deducible Persona Natural"
+  },
+  {
+    "codigo": "14",
+    "descripcion": "Exportación de servicios – prestación de servicios de hospedaje No Dom"
+  },
+  {
+    "codigo": "15",
+    "descripcion": "Exportación de servicios – Transporte de navieras"
+  },
+  {
+    "codigo": "16",
+    "descripcion": "Exportación de servicios – servicios  a naves y aeronaves de bandera extranjera"
+  },
+  {
+    "codigo": "17",
+    "descripcion": "Exportación de servicios – RES"
+  },
+  {
+    "codigo": "18",
+    "descripcion": "Exportación de servicios  - Servicios que conformen un Paquete Turístico"
+  },
+  {
+    "codigo": "19",
+    "descripcion": "Exportación de servicios – Servicios complementarios al transporte de carga"
+  },
+  {
+    "codigo": "20",
+    "descripcion": "Exportación de servicios – Suministro de energía eléctrica a favor de sujetos domiciliados en ZED"
+  },
+  {
+    "codigo": "21",
+    "descripcion": "Exportación de servicios – Prestación servicios realizados parcialmente en el extranjero"
+  }
+]
