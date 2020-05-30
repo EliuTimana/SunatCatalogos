@@ -1,0 +1,22 @@
+{
+  "name": "SunatCatalogos",
+  "version": "1.0.0",
+  "description": "SUNAT - Anexo No. 8 : Catálogo de Códigos",
+  "main": "index.js",
+  "repository": "git@github.com:EliuTimana/SunatCatalogos.git",
+  "author": "Eliú Timaná <EliuTimana@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vuepress": "^1.5.0"
+  },
+  "resolutions": {
+    "watchpack": "1.6.1"
+  }
+}
