@@ -1,0 +1,58 @@
+[
+  {
+    "codigo": "1000",
+    "descripcion": "Monto en Letras"
+  },
+  {
+    "codigo": "1002",
+    "descripcion": "Leyenda \"TRANSFERENCIA GRATUITA DE UN BIEN Y/O SERVICIO PRESTADO GRATUITAMENTE\""
+  },
+  {
+    "codigo": "2000",
+    "descripcion": "Leyenda “COMPROBANTE DE PERCEPCIÓN”"
+  },
+  {
+    "codigo": "2001",
+    "descripcion": "Leyenda “BIENES TRANSFERIDOS EN LA AMAZONÍA REGIÓN SELVA PARA SER CONSUMIDOS EN LA MISMA\""
+  },
+  {
+    "codigo": "2002",
+    "descripcion": "Leyenda “SERVICIOS PRESTADOS EN LA AMAZONÍA  REGIÓN SELVA PARA SER CONSUMIDOS EN LA MISMA”"
+  },
+  {
+    "codigo": "2003",
+    "descripcion": "Leyenda “CONTRATOS DE CONSTRUCCIÓN EJECUTADOS  EN LA AMAZONÍA REGIÓN SELVA”"
+  },
+  {
+    "codigo": "2004",
+    "descripcion": "Leyenda “Agencia de Viaje - Paquete turístico” "
+  },
+  {
+    "codigo": "2005",
+    "descripcion": "Leyenda “Venta realizada por emisor itinerante” "
+  },
+  {
+    "codigo": "2006",
+    "descripcion": "Leyenda \"Operación sujeta a detracción\""
+  },
+  {
+    "codigo": "2007",
+    "descripcion": "Leyenda \"Operación sujeta al IVAP\""
+  },
+  {
+    "codigo": "2008",
+    "descripcion": "Leyenda: “VENTA EXONERADA DEL IGV-ISC-IPM. PROHIBIDA LA VENTA FUERA DE LA ZONA COMERCIAL DE TACNA”"
+  },
+  {
+    "codigo": "2009",
+    "descripcion": "Leyenda: “PRIMERA VENTA DE MERCANCÍA IDENTIFICABLE ENTRE USUARIOS DE LA ZONA COMERCIAL”"
+  },
+  {
+    "codigo": "2010",
+    "descripcion": "Restitucion Simplificado de Derechos Arancelarios"
+  },
+  {
+    "codigo": "2011",
+    "descripcion": "Leyenda “EXPORTACION DE SERVICIOS - DECRETO LEGISLATIVO Nº 919”"
+  }
+]
