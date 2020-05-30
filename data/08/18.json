@@ -1,0 +1,10 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Transporte público"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Transporte privado"
+  }
+]
