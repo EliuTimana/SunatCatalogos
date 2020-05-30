@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Gravado"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Exonerado"
+  },
+  {
+    "codigo": "03",
+    "descripcion": "Inafecto"
+  },
+  {
+    "codigo": "04",
+    "descripcion": "Exportación"
+  },
+  {
+    "codigo": "05",
+    "descripcion": "Gratuitas"
+  }
+]
