@@ -1,0 +1,46 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Factura – emitida para corregir error en el RUC"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Factura – emitida por anticipos"
+  },
+  {
+    "codigo": "03",
+    "descripcion": "Boleta de Venta – emitida por anticipos"
+  },
+  {
+    "codigo": "04",
+    "descripcion": "Ticket de Salida - ENAPU "
+  },
+  {
+    "codigo": "05",
+    "descripcion": "Código SCOP"
+  },
+  {
+    "codigo": "06",
+    "descripcion": "Factura electrónica remitente"
+  },
+  {
+    "codigo": "07",
+    "descripcion": "Guia de remisión remitente"
+  },
+  {
+    "codigo": "08",
+    "descripcion": "Declaración de salida del depósito franco "
+  },
+  {
+    "codigo": "09",
+    "descripcion": "Declaración simplificada de importación "
+  },
+  {
+    "codigo": "10",
+    "descripcion": "Liquidación de compra - emitida por anticipos"
+  },
+  {
+    "codigo": "99",
+    "descripcion": "Otros"
+  }
+]
