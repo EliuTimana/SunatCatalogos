@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "0",
+    "descripcion": "Sin indicador"
+  },
+  {
+    "codigo": "1",
+    "descripcion": "Calificado para crédito Mi Vivienda / Techo Propio"
+  },
+  {
+    "codigo": "2",
+    "descripcion": "Libre disposición de la AFP"
+  },
+  {
+    "codigo": "3",
+    "descripcion": "Calificado como primera vivienda de acuerdo a la información proporcionada por el cliente (para créditos otorgados a partir del 01.01.2013)"
+  }
+]
