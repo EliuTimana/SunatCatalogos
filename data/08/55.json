@@ -1,0 +1,454 @@
+[
+  {
+    "codigo": "3001",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos-Matrícula de la embarcación"
+  },
+  {
+    "codigo": "3002",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos-Nombre de la embarcación"
+  },
+  {
+    "codigo": "3003",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos-Tipo de especie vendida"
+  },
+  {
+    "codigo": "3004",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos-Lugar de descarga"
+  },
+  {
+    "codigo": "3005",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos-Fecha de descarga"
+  },
+  {
+    "codigo": "3006",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos-Cantidad de especie vendida"
+  },
+  {
+    "codigo": "3050",
+    "descripcion": "Transportre Terreste - Número de asiento"
+  },
+  {
+    "codigo": "3051",
+    "descripcion": "Transporte Terrestre - Información de manifiesto de pasajeros"
+  },
+  {
+    "codigo": "3052",
+    "descripcion": "Transporte Terrestre - Número de documento de identidad del pasajero"
+  },
+  {
+    "codigo": "3053",
+    "descripcion": "Transporte Terrestre - Tipo de documento de identidad del pasajero"
+  },
+  {
+    "codigo": "3054",
+    "descripcion": "Transporte Terrestre - Nombres y apellidos del pasajero"
+  },
+  {
+    "codigo": "3055",
+    "descripcion": "Transporte Terrestre - Ciudad o lugar de destino - Ubigeo"
+  },
+  {
+    "codigo": "3056",
+    "descripcion": "Transporte Terrestre - Ciudad o lugar de destino - Dirección detallada"
+  },
+  {
+    "codigo": "3057",
+    "descripcion": "Transporte Terrestre - Ciudad o lugar de origen - Ubigeo"
+  },
+  {
+    "codigo": "3058",
+    "descripcion": "Transporte Terrestre - Ciudad o lugar de origen - Dirección detallada"
+  },
+  {
+    "codigo": "3059",
+    "descripcion": "Transporte Terrestre - Fecha de inicio programado"
+  },
+  {
+    "codigo": "3060",
+    "descripcion": "Transporte Terrestre - Hora de inicio programado"
+  },
+  {
+    "codigo": "4000",
+    "descripcion": "Beneficio Hospedajes-Paquete turístico: Código de país de emisión del pasaporte"
+  },
+  {
+    "codigo": "4001",
+    "descripcion": "Beneficio Hospedajes: Código de país de residencia del sujeto no domiciliado"
+  },
+  {
+    "codigo": "4002",
+    "descripcion": "Beneficio Hospedajes: Fecha de ingreso al país"
+  },
+  {
+    "codigo": "4003",
+    "descripcion": "Beneficio Hospedajes: Fecha de Ingreso al Establecimiento"
+  },
+  {
+    "codigo": "4004",
+    "descripcion": "Beneficio Hospedajes: Fecha de Salida del Establecimiento"
+  },
+  {
+    "codigo": "4005",
+    "descripcion": "Beneficio Hospedajes: Número de Días de Permanencia"
+  },
+  {
+    "codigo": "4006",
+    "descripcion": "Beneficio Hospedajes: Fecha de Consumo "
+  },
+  {
+    "codigo": "4007",
+    "descripcion": "Beneficio Hospedajes-Paquete turístico: Nombres y apellidos del huesped "
+  },
+  {
+    "codigo": "4008",
+    "descripcion": "Beneficio Hospedajes-Paquete turístico: Tipo de documento de identidad del huesped "
+  },
+  {
+    "codigo": "4009",
+    "descripcion": "Beneficio Hospedajes-Paquete turístico: Número de documento de identidad del huesped "
+  },
+  {
+    "codigo": "4030",
+    "descripcion": "Carta Porte Aéreo:  Lugar de origen - Código de ubigeo"
+  },
+  {
+    "codigo": "4031",
+    "descripcion": "Carta Porte Aéreo:  Lugar de origen - Dirección detallada"
+  },
+  {
+    "codigo": "4032",
+    "descripcion": "Carta Porte Aéreo:  Lugar de destino - Código de ubigeo"
+  },
+  {
+    "codigo": "4033",
+    "descripcion": "Carta Porte Aéreo:  Lugar de destino - Dirección detallada"
+  },
+  {
+    "codigo": "4040",
+    "descripcion": "BVME transporte ferroviario: Pasajero - Apellidos y Nombres"
+  },
+  {
+    "codigo": "4041",
+    "descripcion": "BVME transporte ferroviario: Pasajero - Tipo de documento de identidad"
+  },
+  {
+    "codigo": "4042",
+    "descripcion": "BVME transporte ferroviario: Servicio transporte: Ciudad o lugar de origen - Código de ubigeo"
+  },
+  {
+    "codigo": "4043",
+    "descripcion": "BVME transporte ferroviario: Servicio transporte: Ciudad o lugar de origen - Dirección detallada"
+  },
+  {
+    "codigo": "4044",
+    "descripcion": "BVME transporte ferroviario: Servicio transporte: Ciudad o lugar de destino - Código de ubigeo"
+  },
+  {
+    "codigo": "4045",
+    "descripcion": "BVME transporte ferroviario: Servicio transporte: Ciudad o lugar de destino - Dirección detallada"
+  },
+  {
+    "codigo": "4046",
+    "descripcion": "BVME transporte ferroviario: Servicio transporte:Número de asiento"
+  },
+  {
+    "codigo": "4047",
+    "descripcion": "BVME transporte ferroviario: Servicio transporte: Hora programada de inicio de viaje"
+  },
+  {
+    "codigo": "4048",
+    "descripcion": "BVME transporte ferroviario: Servicio transporte: Fecha programada de inicio de viaje"
+  },
+  {
+    "codigo": "4049",
+    "descripcion": "BVME transporte ferroviario: Pasajero - Número de documento de identidad"
+  },
+  {
+    "codigo": "4060",
+    "descripcion": "Regalía Petrolera: Decreto Supremo de aprobación del contrato"
+  },
+  {
+    "codigo": "4061",
+    "descripcion": "Regalía Petrolera: Area de contrato (Lote)"
+  },
+  {
+    "codigo": "4062",
+    "descripcion": "Regalía Petrolera: Periodo de pago - Fecha de inicio"
+  },
+  {
+    "codigo": "4063",
+    "descripcion": "Regalía Petrolera: Periodo de pago - Fecha de fin"
+  },
+  {
+    "codigo": "4064",
+    "descripcion": "Regalía Petrolera: Fecha de Pago"
+  },
+  {
+    "codigo": "5000",
+    "descripcion": "Proveedores Estado: Número de Expediente"
+  },
+  {
+    "codigo": "5001",
+    "descripcion": "Proveedores Estado: Código de Unidad Ejecutora"
+  },
+  {
+    "codigo": "5002",
+    "descripcion": "Proveedores Estado: N° de Proceso de Selección"
+  },
+  {
+    "codigo": "5003",
+    "descripcion": "Proveedores Estado: N° de Contrato"
+  },
+  {
+    "codigo": "5010",
+    "descripcion": "Numero de Placa"
+  },
+  {
+    "codigo": "5011",
+    "descripcion": "Categoria"
+  },
+  {
+    "codigo": "5012",
+    "descripcion": "Marca"
+  },
+  {
+    "codigo": "5013",
+    "descripcion": "Modelo"
+  },
+  {
+    "codigo": "5014",
+    "descripcion": "Color"
+  },
+  {
+    "codigo": "5015",
+    "descripcion": "Motor"
+  },
+  {
+    "codigo": "5016",
+    "descripcion": "Combustible"
+  },
+  {
+    "codigo": "5017",
+    "descripcion": "Form. Rodante"
+  },
+  {
+    "codigo": "5018",
+    "descripcion": "VIN"
+  },
+  {
+    "codigo": "5019",
+    "descripcion": "Serie/Chasis"
+  },
+  {
+    "codigo": "5020",
+    "descripcion": "Año fabricacion"
+  },
+  {
+    "codigo": "5021",
+    "descripcion": "Año modelo"
+  },
+  {
+    "codigo": "5022",
+    "descripcion": "Version"
+  },
+  {
+    "codigo": "5023",
+    "descripcion": "Ejes"
+  },
+  {
+    "codigo": "5024",
+    "descripcion": "Asientos"
+  },
+  {
+    "codigo": "5025",
+    "descripcion": "Pasajeros"
+  },
+  {
+    "codigo": "5026",
+    "descripcion": "Ruedas"
+  },
+  {
+    "codigo": "5027",
+    "descripcion": "Carroceria"
+  },
+  {
+    "codigo": "5028",
+    "descripcion": "Potencia"
+  },
+  {
+    "codigo": "5029",
+    "descripcion": "Cilindros"
+  },
+  {
+    "codigo": "5030",
+    "descripcion": "Ciliindrada"
+  },
+  {
+    "codigo": "5031",
+    "descripcion": "Peso Bruto"
+  },
+  {
+    "codigo": "5032",
+    "descripcion": "Peso Neto"
+  },
+  {
+    "codigo": "5033",
+    "descripcion": "Carga Util"
+  },
+  {
+    "codigo": "5034",
+    "descripcion": "Longitud"
+  },
+  {
+    "codigo": "5035",
+    "descripcion": "Altura"
+  },
+  {
+    "codigo": "5036",
+    "descripcion": "Ancho"
+  },
+  {
+    "codigo": "5060",
+    "descripcion": "Gas Natural - Lectura Anterior"
+  },
+  {
+    "codigo": "5061",
+    "descripcion": "Gas Natural - Lectura Actual"
+  },
+  {
+    "codigo": "5062",
+    "descripcion": "Gas Natural - Volumen consumido a Condiciones de lectura"
+  },
+  {
+    "codigo": "5063",
+    "descripcion": "Gas Natural - Factor de correccion del volumen"
+  },
+  {
+    "codigo": "5064",
+    "descripcion": "Gas Natural - Volumen a condiciones Estandares"
+  },
+  {
+    "codigo": "5065",
+    "descripcion": "Gas Natural - Volumen facturado"
+  },
+  {
+    "codigo": "5066",
+    "descripcion": "Gas Natural - Poder Calorifico Superior Promedio del Gas"
+  },
+  {
+    "codigo": "6000",
+    "descripcion": "Comercialización de Oro:  Código Unico Concesión Minera"
+  },
+  {
+    "codigo": "6001",
+    "descripcion": "Comercialización de Oro:  N° declaración compromiso"
+  },
+  {
+    "codigo": "6002",
+    "descripcion": "Comercialización de Oro:  N° Reg. Especial .Comerci. Oro"
+  },
+  {
+    "codigo": "6003",
+    "descripcion": "Comercialización de Oro:  N° Resolución que autoriza Planta de Beneficio"
+  },
+  {
+    "codigo": "6004",
+    "descripcion": "Comercialización de Oro: Ley Mineral (% concent. oro)"
+  },
+  {
+    "codigo": "6005",
+    "descripcion": "Comercialización de Oro : Naturaleza del mineral"
+  },
+  {
+    "codigo": "6006",
+    "descripcion": "Comercialización de Oro : Nombre del derecho minero"
+  },
+  {
+    "codigo": "7000",
+    "descripcion": "Gastos Art. 37 Renta:  Número de Placa"
+  },
+  {
+    "codigo": "7001",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Tipo de préstamo"
+  },
+  {
+    "codigo": "7002",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Indicador de Primera Vivienda"
+  },
+  {
+    "codigo": "7003",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Partida Registral"
+  },
+  {
+    "codigo": "7004",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Número de contrato"
+  },
+  {
+    "codigo": "7005",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Fecha de otorgamiento del crédito"
+  },
+  {
+    "codigo": "7006",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Código de ubigeo"
+  },
+  {
+    "codigo": "7007",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Dirección completa"
+  },
+  {
+    "codigo": "7008",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Urbanización"
+  },
+  {
+    "codigo": "7009",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Provincia"
+  },
+  {
+    "codigo": "7010",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Distrito"
+  },
+  {
+    "codigo": "7011",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Departamento"
+  },
+  {
+    "codigo": "7012",
+    "descripcion": "Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Monto del crédito otorgado (capital)"
+  },
+  {
+    "codigo": "7013",
+    "descripcion": "Empresas del sistema de seguro: Número de póliza"
+  },
+  {
+    "codigo": "7014",
+    "descripcion": "Empresas del sistema de seguro: Fecha de inicio/término de vigencia de cobertura"
+  },
+  {
+    "codigo": "7015",
+    "descripcion": "Empresas del sistema de seguro: Tipo de seguro"
+  },
+  {
+    "codigo": "7016",
+    "descripcion": "Empresas del sistema de seguro: Suma asegurada / alcance de cobertura o monto"
+  },
+  {
+    "codigo": "7017",
+    "descripcion": "AFP: CUSSP"
+  },
+  {
+    "codigo": "7018",
+    "descripcion": "AFP: Periodo"
+  },
+  {
+    "codigo": "7019",
+    "descripcion": "AFP: Monto del interes moratorio"
+  },
+  {
+    "codigo": "7020",
+    "descripcion": "Subpartida nacional"
+  },
+  {
+    "codigo": "7021",
+    "descripcion": "Numero de declaracion aduanera (DAM)"
+  }
+]

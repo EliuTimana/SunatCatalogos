@@ -1,0 +1,114 @@
+codigo,descripcion
+3001,Detracciones: Recursos Hidrobiológicos-Matrícula de la embarcación
+3002,Detracciones: Recursos Hidrobiológicos-Nombre de la embarcación
+3003,Detracciones: Recursos Hidrobiológicos-Tipo de especie vendida
+3004,Detracciones: Recursos Hidrobiológicos-Lugar de descarga
+3005,Detracciones: Recursos Hidrobiológicos-Fecha de descarga
+3006,Detracciones: Recursos Hidrobiológicos-Cantidad de especie vendida
+3050,Transportre Terreste - Número de asiento
+3051,Transporte Terrestre - Información de manifiesto de pasajeros
+3052,Transporte Terrestre - Número de documento de identidad del pasajero
+3053,Transporte Terrestre - Tipo de documento de identidad del pasajero
+3054,Transporte Terrestre - Nombres y apellidos del pasajero
+3055,Transporte Terrestre - Ciudad o lugar de destino - Ubigeo
+3056,Transporte Terrestre - Ciudad o lugar de destino - Dirección detallada
+3057,Transporte Terrestre - Ciudad o lugar de origen - Ubigeo
+3058,Transporte Terrestre - Ciudad o lugar de origen - Dirección detallada
+3059,Transporte Terrestre - Fecha de inicio programado
+3060,Transporte Terrestre - Hora de inicio programado
+4000,Beneficio Hospedajes-Paquete turístico: Código de país de emisión del pasaporte
+4001,Beneficio Hospedajes: Código de país de residencia del sujeto no domiciliado
+4002,Beneficio Hospedajes: Fecha de ingreso al país
+4003,Beneficio Hospedajes: Fecha de Ingreso al Establecimiento
+4004,Beneficio Hospedajes: Fecha de Salida del Establecimiento
+4005,Beneficio Hospedajes: Número de Días de Permanencia
+4006,Beneficio Hospedajes: Fecha de Consumo
+4007,Beneficio Hospedajes-Paquete turístico: Nombres y apellidos del huesped
+4008,Beneficio Hospedajes-Paquete turístico: Tipo de documento de identidad del huesped
+4009,Beneficio Hospedajes-Paquete turístico: Número de documento de identidad del huesped
+4030,Carta Porte Aéreo:  Lugar de origen - Código de ubigeo
+4031,Carta Porte Aéreo:  Lugar de origen - Dirección detallada
+4032,Carta Porte Aéreo:  Lugar de destino - Código de ubigeo
+4033,Carta Porte Aéreo:  Lugar de destino - Dirección detallada
+4040,BVME transporte ferroviario: Pasajero - Apellidos y Nombres
+4041,BVME transporte ferroviario: Pasajero - Tipo de documento de identidad
+4042,BVME transporte ferroviario: Servicio transporte: Ciudad o lugar de origen - Código de ubigeo
+4043,BVME transporte ferroviario: Servicio transporte: Ciudad o lugar de origen - Dirección detallada
+4044,BVME transporte ferroviario: Servicio transporte: Ciudad o lugar de destino - Código de ubigeo
+4045,BVME transporte ferroviario: Servicio transporte: Ciudad o lugar de destino - Dirección detallada
+4046,BVME transporte ferroviario: Servicio transporte:Número de asiento
+4047,BVME transporte ferroviario: Servicio transporte: Hora programada de inicio de viaje
+4048,BVME transporte ferroviario: Servicio transporte: Fecha programada de inicio de viaje
+4049,BVME transporte ferroviario: Pasajero - Número de documento de identidad
+4060,Regalía Petrolera: Decreto Supremo de aprobación del contrato
+4061,Regalía Petrolera: Area de contrato (Lote)
+4062,Regalía Petrolera: Periodo de pago - Fecha de inicio
+4063,Regalía Petrolera: Periodo de pago - Fecha de fin
+4064,Regalía Petrolera: Fecha de Pago
+5000,Proveedores Estado: Número de Expediente
+5001,Proveedores Estado: Código de Unidad Ejecutora
+5002,Proveedores Estado: N° de Proceso de Selección
+5003,Proveedores Estado: N° de Contrato
+5010,Numero de Placa
+5011,Categoria
+5012,Marca
+5013,Modelo
+5014,Color
+5015,Motor
+5016,Combustible
+5017,Form. Rodante
+5018,VIN
+5019,Serie/Chasis
+5020,Año fabricacion
+5021,Año modelo
+5022,Version
+5023,Ejes
+5024,Asientos
+5025,Pasajeros
+5026,Ruedas
+5027,Carroceria
+5028,Potencia
+5029,Cilindros
+5030,Ciliindrada
+5031,Peso Bruto
+5032,Peso Neto
+5033,Carga Util
+5034,Longitud
+5035,Altura
+5036,Ancho
+5060,Gas Natural - Lectura Anterior
+5061,Gas Natural - Lectura Actual
+5062,Gas Natural - Volumen consumido a Condiciones de lectura
+5063,Gas Natural - Factor de correccion del volumen
+5064,Gas Natural - Volumen a condiciones Estandares
+5065,Gas Natural - Volumen facturado
+5066,Gas Natural - Poder Calorifico Superior Promedio del Gas
+6000,Comercialización de Oro:  Código Unico Concesión Minera
+6001,Comercialización de Oro:  N° declaración compromiso
+6002,Comercialización de Oro:  N° Reg. Especial .Comerci. Oro
+6003,Comercialización de Oro:  N° Resolución que autoriza Planta de Beneficio
+6004,Comercialización de Oro: Ley Mineral (% concent. oro)
+6005,Comercialización de Oro : Naturaleza del mineral
+6006,Comercialización de Oro : Nombre del derecho minero
+7000,Gastos Art. 37 Renta:  Número de Placa
+7001,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Tipo de préstamo
+7002,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Indicador de Primera Vivienda
+7003,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Partida Registral
+7004,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Número de contrato
+7005,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Fecha de otorgamiento del crédito
+7006,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Código de ubigeo
+7007,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Dirección completa
+7008,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Urbanización
+7009,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Provincia
+7010,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Distrito
+7011,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Dirección del predio - Departamento
+7012,Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público: Monto del crédito otorgado (capital)
+7013,Empresas del sistema de seguro: Número de póliza
+7014,Empresas del sistema de seguro: Fecha de inicio/término de vigencia de cobertura
+7015,Empresas del sistema de seguro: Tipo de seguro
+7016,Empresas del sistema de seguro: Suma asegurada / alcance de cobertura o monto
+7017,AFP: CUSSP
+7018,AFP: Periodo
+7019,AFP: Monto del interes moratorio
+7020,Subpartida nacional
+7021,Numero de declaracion aduanera (DAM)
