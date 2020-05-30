@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "1",
+    "descripcion": "Servicios Portadores"
+  },
+  {
+    "codigo": "2",
+    "descripcion": "Teleservicios o Servicios Finales"
+  },
+  {
+    "codigo": "3",
+    "descripcion": "Servicios de Difusión"
+  },
+  {
+    "codigo": "4",
+    "descripcion": "Servicios de valor añadido"
+  }
+]
