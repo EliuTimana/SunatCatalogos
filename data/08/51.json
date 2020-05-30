@@ -1,0 +1,142 @@
+[
+  {
+    "codigo": "0101",
+    "descripcion": "Venta interna",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0112",
+    "descripcion": "Venta Interna - Sustenta Gastos Deducibles Persona Natural",
+    "tipo_de_comprobante_asociado": "Factura "
+  },
+  {
+    "codigo": "0113",
+    "descripcion": "Venta Interna-NRUS",
+    "tipo_de_comprobante_asociado": "Boleta"
+  },
+  {
+    "codigo": "0200",
+    "descripcion": "Exportación de Bienes",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0201",
+    "descripcion": "Exportación de Servicios – Prestación servicios realizados íntegramente en el país",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0202",
+    "descripcion": "Exportación de Servicios – Prestación de servicios de hospedaje No Domiciliado",
+    "tipo_de_comprobante_asociado": "Factura"
+  },
+  {
+    "codigo": "0203",
+    "descripcion": "Exportación de Servicios – Transporte de navieras",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0204",
+    "descripcion": "Exportación de Servicios – Servicios  a naves y aeronaves de bandera extranjera",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0205",
+    "descripcion": "Exportación de Servicios  - Servicios que conformen un Paquete Turístico",
+    "tipo_de_comprobante_asociado": "Factura"
+  },
+  {
+    "codigo": "0206",
+    "descripcion": "Exportación de Servicios – Servicios complementarios al transporte de carga",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0207",
+    "descripcion": "Exportación de Servicios – Suministro de energía eléctrica a favor de sujetos domiciliados en ZED",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0208",
+    "descripcion": "Exportación de Servicios – Prestación servicios realizados parcialmente en el extranjero",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0301",
+    "descripcion": "Operaciones con Carta de porte aéreo (emitidas en el ámbito nacional)",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0302",
+    "descripcion": "Operaciones de Transporte ferroviario de pasajeros",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0401",
+    "descripcion": "Ventas no domiciliados que no califican como exportación",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "0501",
+    "descripcion": "Compra interna",
+    "tipo_de_comprobante_asociado": "Liquidación de compra"
+  },
+  {
+    "codigo": "0502",
+    "descripcion": "Anticipos",
+    "tipo_de_comprobante_asociado": "Liquidación de compra"
+  },
+  {
+    "codigo": "0503",
+    "descripcion": "Compra de oro",
+    "tipo_de_comprobante_asociado": "Liquidación de compra"
+  },
+  {
+    "codigo": "1001",
+    "descripcion": "Operación Sujeta a Detracción",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "1002",
+    "descripcion": "Operación Sujeta a Detracción- Recursos Hidrobiológicos",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "1003",
+    "descripcion": "Operación Sujeta a Detracción- Servicios de Transporte Pasajeros",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "1004",
+    "descripcion": "Operación Sujeta a Detracción- Servicios de Transporte Carga",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "2001",
+    "descripcion": "Operación Sujeta a Percepción",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "2100",
+    "descripcion": "Créditos a empresas",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "2101",
+    "descripcion": "Créditos de consumo revolvente",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "2102",
+    "descripcion": "Créditos de consumo no revolvente ",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "2103",
+    "descripcion": "Otras operaciones no gravadas - Empresas del sistema financiero y cooperativas de ahorro y crédito no autorizadas a captar recursos del público",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  },
+  {
+    "codigo": "2104",
+    "descripcion": "Otras operaciones no  gravadas - Empresas del sistema de seguros",
+    "tipo_de_comprobante_asociado": "Factura, Boletas"
+  }
+]
