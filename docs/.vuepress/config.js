@@ -1,7 +1,12 @@
 module.exports = {
     title: 'Sunat Catálogos',
-    description: 'Lista de catálogos utilizados por SUNAT para facturación electrónica.',
+    description: 'Catálogos de SUNAT para facturación electrónica.',
     base: '/SunatCatalogos/',
+    locales: {
+        '/': {
+            lang: 'es-PE'
+        },
+    },
     themeConfig: {
         searchPlaceholder: 'Buscar...',
         lastUpdated: 'Última Actualización',
