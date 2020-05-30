@@ -1,4 +1,4 @@
-$color-primary: #2196f3;
+$color-primary: #1e88e5;
 $color-primary-dark: #1976D2;
 $black: #000;
 
@@ -48,4 +48,8 @@ a {
 //Navbar
 .navbar {
   box-shadow: 0 .5rem 1rem rgba($black, .15) !important;
+}
+
+.page-edit .last-updated .time {
+  color: var(--secondary) !important;
 }
