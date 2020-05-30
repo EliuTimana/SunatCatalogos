@@ -1,0 +1,10 @@
+[
+  {
+    "codigo": "1",
+    "descripcion": "Trifásico"
+  },
+  {
+    "codigo": "2",
+    "descripcion": "Monofásico"
+  }
+]
