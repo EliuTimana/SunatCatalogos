@@ -1,0 +1,97 @@
+[
+  {
+    "codigo": "10",
+    "descripcion": "Gravado - Operación Onerosa",
+    "codigo_de_tributo": "1000"
+  },
+  {
+    "codigo": "11",
+    "descripcion": "Gravado – Retiro por premio",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "12",
+    "descripcion": "Gravado – Retiro por donación",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "13",
+    "descripcion": "Gravado – Retiro ",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "14",
+    "descripcion": "Gravado – Retiro por publicidad",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "15",
+    "descripcion": "Gravado – Bonificaciones",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "16",
+    "descripcion": "Gravado – Retiro por entrega a trabajadores",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "17",
+    "descripcion": "Gravado - IVAP",
+    "codigo_de_tributo": "1016 o 9996"
+  },
+  {
+    "codigo": "20",
+    "descripcion": "Exonerado - Operación Onerosa",
+    "codigo_de_tributo": "9997"
+  },
+  {
+    "codigo": "21",
+    "descripcion": "Exonerado - Transferencia gratuita",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "30",
+    "descripcion": "Inafecto - Operación Onerosa",
+    "codigo_de_tributo": "9998"
+  },
+  {
+    "codigo": "31",
+    "descripcion": "Inafecto – Retiro por Bonificación",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "32",
+    "descripcion": "Inafecto – Retiro",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "33",
+    "descripcion": "Inafecto – Retiro por Muestras Médicas",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "34",
+    "descripcion": "Inafecto - Retiro por Convenio Colectivo",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "35",
+    "descripcion": "Inafecto – Retiro por premio",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "36",
+    "descripcion": "Inafecto - Retiro por publicidad",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "37",
+    "descripcion": "Inafecto - Transferencia gratuita",
+    "codigo_de_tributo": "9996"
+  },
+  {
+    "codigo": "40",
+    "descripcion": "Exportación de Bienes o Servicios",
+    "codigo_de_tributo": "9995 o 9996"
+  }
+]
