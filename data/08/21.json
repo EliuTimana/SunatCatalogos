@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Numeración DAM"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Número de orden de entrega"
+  },
+  {
+    "codigo": "03",
+    "descripcion": "Número SCOP"
+  },
+  {
+    "codigo": "04",
+    "descripcion": "Número de manifiesto de carga"
+  },
+  {
+    "codigo": "05",
+    "descripcion": "Número de constancia de detracción"
+  },
+  {
+    "codigo": "06",
+    "descripcion": "Otros"
+  }
+]
