@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Punto de venta"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Producción"
+  },
+  {
+    "codigo": "03",
+    "descripcion": "Extracción "
+  },
+  {
+    "codigo": "04",
+    "descripcion": "Explotación "
+  },
+  {
+    "codigo": "05",
+    "descripcion": "Otros"
+  }
+]
