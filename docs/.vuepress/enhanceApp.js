@@ -1,5 +1,3 @@
-import "bootstrap/scss/bootstrap.scss";
-import "roboto-fontface";
 import "./styles/styles.scss";
 
 export default ({

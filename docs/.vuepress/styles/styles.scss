@@ -2,6 +2,10 @@ $color-primary: #1e88e5;
 $color-primary-dark: #1976D2;
 $black: #000;
 
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 .theme-container.content-page-w100 {
   .page {
     .theme-default-content {

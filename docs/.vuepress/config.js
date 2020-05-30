@@ -21,7 +21,17 @@ module.exports = {
         ['link', {rel: 'apple-touch-icon', href: '/icons/apple-touch-icon.png'}],
         ['link', {rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#1e88e5'}],
         ['meta', {name: 'msapplication-TileImage', content: '/icons/mstile-144x144.png'}],
-        ['meta', {name: 'msapplication-TileColor', content: '#1e88e5'}]
+        ['meta', {name: 'msapplication-TileColor', content: '#1e88e5'}],
+        ['link', {
+            rel: "stylesheet",
+            href: "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css",
+            integrity: "sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk",
+            crossorigin: "anonymous"
+        }],
+        ['link', {
+            href: "https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap",
+            rel: "stylesheet"
+        }]
     ],
     plugins: {
         '@vuepress/pwa': {

@@ -20,8 +20,5 @@
   "resolutions": {
     "watchpack": "1.6.1"
   },
-  "dependencies": {
-    "bootstrap": "^4.5.0",
-    "roboto-fontface": "^0.10.0"
-  }
+  "dependencies": {}
 }
