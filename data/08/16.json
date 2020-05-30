@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Precio unitario (incluye el IGV)"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Valor referencial unitario en operaciones no onerosas (Gratuitas)"
+  },
+  {
+    "codigo": "03",
+    "descripcion": "Tarifas reguladas"
+  }
+]
