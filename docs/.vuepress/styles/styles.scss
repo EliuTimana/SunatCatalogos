@@ -9,6 +9,18 @@ $black: #000;
       max-width: 100%;
       margin: initial;
     }
+
+    .page-nav {
+      width: 100%;
+      max-width: 100%;
+      margin: initial;
+
+      .inner {
+        a {
+          color: $color-primary-dark !important;
+        }
+      }
+    }
   }
 }
 
