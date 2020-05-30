@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "0",
+    "descripcion": "Sin información"
+  },
+  {
+    "codigo": "1",
+    "descripcion": "Si es construcción /adquisición"
+  },
+  {
+    "codigo": "2",
+    "descripcion": "Si es para refacción, remodelación, ampliación, mejoramiento o subdivisión de vivienda propia."
+  }
+]
