@@ -1,0 +1,247 @@
+[
+  {
+    "codigo_de_tarifa": "L001",
+    "codigo": "AT2",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L002",
+    "codigo": "MT2",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L003",
+    "codigo": "MT3",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L004",
+    "codigo": "MT4",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L005",
+    "codigo": "BT2",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L006",
+    "codigo": "BT3",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L007",
+    "codigo": "BT4",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L008",
+    "codigo": "BT5A",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L009",
+    "codigo": "BT5B ",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L010",
+    "codigo": "BT6",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L011",
+    "codigo": "BT5C-AP",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L012",
+    "codigo": "BT5D",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L013",
+    "codigo": "BT5E",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L014",
+    "codigo": "BT7",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L015",
+    "codigo": "BT8",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L016",
+    "codigo": "BT5C",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L017",
+    "codigo": "MT2L",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L018",
+    "codigo": "MT2L_1 a MT2L21",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L019",
+    "codigo": "MT2A a MT2Z",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L020",
+    "codigo": "AT1 ",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "L021",
+    "codigo": "MT1",
+    "servicio_aplicable": "LUZ"
+  },
+  {
+    "codigo_de_tarifa": "A011",
+    "codigo": "COMERCIAL",
+    "servicio_aplicable": "AGUA"
+  },
+  {
+    "codigo_de_tarifa": "A012",
+    "codigo": "INDUSTRIAL",
+    "servicio_aplicable": "AGUA"
+  },
+  {
+    "codigo_de_tarifa": "A013",
+    "codigo": "ESTATAL",
+    "servicio_aplicable": "AGUA"
+  },
+  {
+    "codigo_de_tarifa": "A014",
+    "codigo": "DOMÉSTICO",
+    "servicio_aplicable": "AGUA"
+  },
+  {
+    "codigo_de_tarifa": "A015",
+    "codigo": "SOCIAL",
+    "servicio_aplicable": "AGUA"
+  },
+  {
+    "codigo_de_tarifa": "A016",
+    "codigo": "MULTIFAMILIAR INDIVIDUALIZADO",
+    "servicio_aplicable": "AGUA"
+  },
+  {
+    "codigo_de_tarifa": "A017",
+    "codigo": "MULTIFAMILIAR NO INDIVIDUALIZADO",
+    "servicio_aplicable": "AGUA"
+  },
+  {
+    "codigo_de_tarifa": "G001",
+    "codigo": "CAT – A1",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G002",
+    "codigo": "CAT – A2",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G003",
+    "codigo": "CAT – B",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G004",
+    "codigo": "CAT - C",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G005",
+    "codigo": "CAT – D",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G006",
+    "codigo": "CAT – E",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G007",
+    "codigo": "CAT – GE",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G008",
+    "codigo": "CAT – IP",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G009",
+    "codigo": "CAT – GNV",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G010",
+    "codigo": "CAT - A",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G011",
+    "codigo": "CAT - B1",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G012",
+    "codigo": "CAT - B2",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G013",
+    "codigo": "CAT - PESCA",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G014",
+    "codigo": "CAT - TIPO I",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G015",
+    "codigo": "CAT - TIPO II-A",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G016",
+    "codigo": "CAT - TIPO II-B",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G017",
+    "codigo": "CAT - TIPO III",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G018",
+    "codigo": "CAT - TIPO IV",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G019",
+    "codigo": "CAT - TIPO V",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G020",
+    "codigo": "CAT - TIPO VI",
+    "servicio_aplicable": "GAS"
+  },
+  {
+    "codigo_de_tarifa": "G021",
+    "codigo": "CAT - TIPO VII",
+    "servicio_aplicable": "GAS"
+  }
+]
