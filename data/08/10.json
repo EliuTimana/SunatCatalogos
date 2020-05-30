@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Intereses por mora"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Aumento en el valor"
+  },
+  {
+    "codigo": "03",
+    "descripcion": "Penalidades/ otros conceptos "
+  },
+  {
+    "codigo": "11",
+    "descripcion": "Ajustes de operaciones de exportación"
+  },
+  {
+    "codigo": "12",
+    "descripcion": "Ajustes afectos al IVAP"
+  }
+]
