@@ -6,6 +6,20 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.table-of-contents {
+  a {
+    color: $color-primary !important;
+  }
+}
+
+.header-anchor {
+  color: $color-primary !important;
+}
+
+.router-link-active {
+  color: $color-primary-dark !important;
+}
+
 .theme-container.content-page-w100 {
   .page {
     .theme-default-content {
@@ -36,19 +50,23 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300 !important;
 }
 
-a {
-  color: $color-primary !important;
+.sidebar {
+  a {
+    text-decoration: none;
+    &.sidebar-link {
+      font-weight: 500 !important;
+      padding-top: 0.75em !important;
+      padding-bottom: 0.75em !important;
 
-  &.sidebar-link {
-    font-weight: 500 !important;
+      &.active {
+        color: $color-primary !important;
+        border-left-color: $color-primary-dark !important;
+      }
 
-    &.active {
-      color: $color-primary !important;
-      border-left-color: $color-primary-dark !important;
-    }
-
-    &:hover {
-      color: $color-primary !important;
+      &:hover {
+        color: $color-primary !important;
+        background-color: aliceblue;
+      }
     }
   }
 }
