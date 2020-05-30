@@ -8,7 +8,7 @@ lang: es-PE
 
 ## #01 - Tipo de documento
 
-<download-links></download-links>
+<download-links code="01"></download-links>
 
 |Código|Descripción             |
 |------|------------------------|

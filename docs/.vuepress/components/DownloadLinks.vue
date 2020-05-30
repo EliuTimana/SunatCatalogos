@@ -1,7 +1,8 @@
 <template>
-    <div class="links-container">
-        <download-link link="Descargar Json"></download-link>
-        <download-link link="Descargar SQL"></download-link>
+    <div class="my-3">
+        <download-link :code="code" type="json"></download-link>
+        <download-link :code="code" type="csv"></download-link>
+        <download-link :code="code" type="sql"></download-link>
     </div>
 </template>
 
@@ -11,12 +12,9 @@
     export default {
         name: "download-links",
         components: {DownloadLink},
-        props: ['links']
+        props: ['code']
     }
 </script>
 
 <style scoped lang="scss">
-    .links-container {
-        margin: 1em;
-    }
 </style>

@@ -1,11 +1,16 @@
 <template>
-    <a :href="link" class="link-button">{{link}}</a>
+    <a :href="link" class="btn btn-success mr-2" download target="_blank">Descargar {{type.toUpperCase()}}</a>
 </template>
 
 <script>
     export default {
         name: "download-link",
-        props: ['link']
+        props: ['code', 'type'],
+        computed: {
+            link() {
+                return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/08/${this.code}.${this.type}`;
+            }
+        }
     }
 </script>
 
