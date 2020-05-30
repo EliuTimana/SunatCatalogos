@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Sunat Catalogos',
+    title: 'Sunat Catálogos',
     description: 'SUNAT : Catálogo de Códigos',
     themeConfig: {
         searchPlaceholder: 'Buscar...',
