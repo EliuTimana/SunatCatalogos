@@ -18,8 +18,6 @@ fetch(url).then((r) => {
     });
 })
 ```
-
-#### Prueba los endpoints
 <data-fetcher type="json"></data-fetcher>
 
 ### Descarga los archivos CSV
