@@ -4,8 +4,8 @@
   "theme_color": "#1e88e5",
   "background_color": "#1976d2",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/SunatCatalogos/",
+  "start_url": "/SunatCatalogos/",
   "icons": [
     {
       "src": "icons/android-chrome-192x192.png",
