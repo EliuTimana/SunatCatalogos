@@ -2,7 +2,8 @@ module.exports = {
     title: 'Sunat Catalogos',
     description: 'SUNAT : Catálogo de Códigos',
     themeConfig: {
-        lastUpdated: 'Last Updated',
+        searchPlaceholder: 'Buscar...',
+        lastUpdated: 'Última Actualización',
         logo: 'https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/sunat-logo.svg',
         sidebar: [
             '/',
