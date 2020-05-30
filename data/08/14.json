@@ -1,0 +1,50 @@
+[
+  {
+    "codigo": "1000",
+    "descripcion": "Total valor de venta - operaciones exportadas"
+  },
+  {
+    "codigo": "1001",
+    "descripcion": "Total valor de venta - operaciones gravadas"
+  },
+  {
+    "codigo": "1002",
+    "descripcion": "Total valor de venta - operaciones inafectas"
+  },
+  {
+    "codigo": "1003",
+    "descripcion": "Total valor de venta - operaciones exoneradas"
+  },
+  {
+    "codigo": "1004",
+    "descripcion": "Total valor de venta – Operaciones gratuitas"
+  },
+  {
+    "codigo": "1005",
+    "descripcion": "Sub total de venta"
+  },
+  {
+    "codigo": "2001",
+    "descripcion": "Percepciones"
+  },
+  {
+    "codigo": "2002",
+    "descripcion": "Retenciones"
+  },
+  {
+    "codigo": "2003",
+    "descripcion": "Detracciones"
+  },
+  {
+    "codigo": "2004",
+    "descripcion": "Bonificaciones"
+  },
+  {
+    "codigo": "2005",
+    "descripcion": "Total descuentos"
+  },
+  {
+    "codigo": "3001",
+    "descripcion": "FISE (Ley 29852) Fondo Inclusión Social Energético"
+  }
+]
