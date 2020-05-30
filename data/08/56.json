@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "1",
+    "descripcion": "Energía eléctrica"
+  },
+  {
+    "codigo": "2",
+    "descripcion": "Agua"
+  },
+  {
+    "codigo": "3",
+    "descripcion": "Cable"
+  },
+  {
+    "codigo": "4",
+    "descripcion": "Internet"
+  },
+  {
+    "codigo": "5",
+    "descripcion": "Otros servicios regulados por OSIPTEL"
+  },
+  {
+    "codigo": "6",
+    "descripcion": "Gas natural"
+  },
+  {
+    "codigo": "7",
+    "descripcion": "Telefonía"
+  }
+]
