@@ -1,0 +1,102 @@
+[
+  {
+    "codigo": "00",
+    "descripcion": "Descuentos que afectan la base imponible del IGV/IVAP",
+    "nivel": "Item"
+  },
+  {
+    "codigo": "01",
+    "descripcion": "Descuentos que no afectan la base imponible del IGV/IVAP",
+    "nivel": "Item"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Descuentos globales que afectan la base imponible del IGV/IVAP",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "03",
+    "descripcion": "Descuentos globales que no afectan la base imponible del IGV/IVAP",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "04",
+    "descripcion": "Descuentos globales por anticipos gravados que afectan la base imponible del IGV/IVAP ",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "05",
+    "descripcion": "Descuentos globales por anticipos exonerados",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "06",
+    "descripcion": "Descuentos globales por anticipos inafectos",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "07",
+    "descripcion": "Factor de compensación - Decreto de urgencia N. 010-2004",
+    "nivel": "Item"
+  },
+  {
+    "codigo": "45",
+    "descripcion": "FISE",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "46",
+    "descripcion": "Recargo al consumo y/o propinas",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "47",
+    "descripcion": "Cargos que afectan la base imponible del IGV/IVAP",
+    "nivel": "Item"
+  },
+  {
+    "codigo": "48",
+    "descripcion": "Cargos que no afectan la base imponible del IGV/IVAP",
+    "nivel": "Item"
+  },
+  {
+    "codigo": "49",
+    "descripcion": "Cargos globales que afectan la base imponible del IGV/IVAP",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "50",
+    "descripcion": "Cargos globales que no afectan la base imponible del IGV/IVAP",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "51",
+    "descripcion": "Percepción venta interna",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "52",
+    "descripcion": "Percepción a la adquisición de combustible",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "53",
+    "descripcion": "Percepción realizada al agente de percepción con tasa especial",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "54",
+    "descripcion": "Factor de aportación - Decreto de urgencia N. 010-2004",
+    "nivel": "Item"
+  },
+  {
+    "codigo": "60",
+    "descripcion": "Deducción de ISC por anticipos",
+    "nivel": "Global"
+  },
+  {
+    "codigo": "61",
+    "descripcion": "Retención de renta por anticipos",
+    "nivel": "Global"
+  }
+]
