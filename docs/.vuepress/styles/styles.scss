@@ -1,3 +1,7 @@
+$color-primary: #2196f3;
+$color-primary-dark: #1976D2;
+$black: #000;
+
 .theme-container.content-page-w100 {
   .page {
     .theme-default-content {
@@ -6,4 +10,42 @@
       margin: initial;
     }
   }
+}
+
+.navbar .site-name {
+  font-weight: 400 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300 !important;
+}
+
+a {
+  color: $color-primary !important;
+
+  &.sidebar-link {
+    font-weight: 500 !important;
+
+    &.active {
+      color: $color-primary !important;
+      border-left-color: $color-primary-dark !important;
+    }
+
+    &:hover {
+      color: $color-primary !important;
+    }
+  }
+}
+
+//Search box
+.search-box input:focus {
+  cursor: auto;
+  border-color: $color-primary !important;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+//Navbar
+.navbar {
+  box-shadow: 0 .5rem 1rem rgba($black, .15) !important;
 }
