@@ -5,8 +5,7 @@
                 <div class="form-group">
                     <label :for="'select-fetcher-' + type">Seleccione una opción</label>
                     <select :id="'select-fetcher-' + type" class="custom-select" v-model="selectedItem" @change="fetchData()">
-                        <option v-for="(e, index) in entries" class="list-group-item list-group-item-action"
-                                :value="e.code">
+                        <option v-for="(e, index) in entries" :value="e.code">
                             {{e.label}}
                         </option>
                     </select>
