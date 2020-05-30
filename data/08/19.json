@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "1",
+    "descripcion": "Adicionar"
+  },
+  {
+    "codigo": "2",
+    "descripcion": "Modificar"
+  },
+  {
+    "codigo": "3",
+    "descripcion": "Anulado"
+  }
+]
