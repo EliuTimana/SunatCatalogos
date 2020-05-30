@@ -1,0 +1,150 @@
+[
+  {
+    "codigo": "001",
+    "descripcion": "Azúcar y melaza de caña"
+  },
+  {
+    "codigo": "002",
+    "descripcion": "Arroz"
+  },
+  {
+    "codigo": "003",
+    "descripcion": "Alcohol etílico"
+  },
+  {
+    "codigo": "004",
+    "descripcion": "Recursos hidrobiológicos"
+  },
+  {
+    "codigo": "005",
+    "descripcion": "Maíz amarillo duro"
+  },
+  {
+    "codigo": "007",
+    "descripcion": "Caña de azúcar"
+  },
+  {
+    "codigo": "008",
+    "descripcion": "Madera"
+  },
+  {
+    "codigo": "009",
+    "descripcion": "Arena y piedra."
+  },
+  {
+    "codigo": "010",
+    "descripcion": "Residuos, subproductos, desechos, recortes y desperdicios"
+  },
+  {
+    "codigo": "011",
+    "descripcion": "Bienes gravados con el IGV, o renuncia a la exoneración"
+  },
+  {
+    "codigo": "012",
+    "descripcion": "Intermediación laboral y tercerización"
+  },
+  {
+    "codigo": "013",
+    "descripcion": "Animales vivos"
+  },
+  {
+    "codigo": "014",
+    "descripcion": "Carnes y despojos comestibles"
+  },
+  {
+    "codigo": "015",
+    "descripcion": "Abonos, cueros y pieles de origen animal"
+  },
+  {
+    "codigo": "016",
+    "descripcion": "Aceite de pescado"
+  },
+  {
+    "codigo": "017",
+    "descripcion": "Harina, polvo y “pellets” de pescado, crustáceos, moluscos y demás invertebrados acuáticos"
+  },
+  {
+    "codigo": "019",
+    "descripcion": "Arrendamiento de bienes muebles"
+  },
+  {
+    "codigo": "020",
+    "descripcion": "Mantenimiento y reparación de bienes muebles"
+  },
+  {
+    "codigo": "021",
+    "descripcion": "Movimiento de carga"
+  },
+  {
+    "codigo": "022",
+    "descripcion": "Otros servicios empresariales"
+  },
+  {
+    "codigo": "023",
+    "descripcion": "Leche"
+  },
+  {
+    "codigo": "024",
+    "descripcion": "Comisión mercantil"
+  },
+  {
+    "codigo": "025",
+    "descripcion": "Fabricación de bienes por encargo"
+  },
+  {
+    "codigo": "026",
+    "descripcion": "Servicio de transporte de personas"
+  },
+  {
+    "codigo": "027",
+    "descripcion": "Servicio de transporte de carga"
+  },
+  {
+    "codigo": "028",
+    "descripcion": "Transporte de pasajeros"
+  },
+  {
+    "codigo": "030",
+    "descripcion": "Contratos de construcción"
+  },
+  {
+    "codigo": "031",
+    "descripcion": "Oro gravado con el IGV"
+  },
+  {
+    "codigo": "032",
+    "descripcion": "Paprika y otros frutos de los generos capsicum o pimienta"
+  },
+  {
+    "codigo": "034",
+    "descripcion": "Minerales metálicos no auríferos"
+  },
+  {
+    "codigo": "035",
+    "descripcion": "Bienes exonerados del IGV"
+  },
+  {
+    "codigo": "036",
+    "descripcion": "Oro y demás minerales metálicos exonerados del IGV"
+  },
+  {
+    "codigo": "037",
+    "descripcion": "Demás servicios gravados con el IGV"
+  },
+  {
+    "codigo": "039",
+    "descripcion": "Minerales no metálicos"
+  },
+  {
+    "codigo": "040",
+    "descripcion": "Bien inmueble gravado con IGV"
+  },
+  {
+    "codigo": "041",
+    "descripcion": "Plomo"
+  },
+  {
+    "codigo": "099",
+    "descripcion": "Ley 30737"
+  }
+]
