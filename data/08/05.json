@@ -1,0 +1,62 @@
+[
+  {
+    "codigo": "1000",
+    "descripcion": "IGV Impuesto General a las Ventas",
+    "codigo_internacional": "VAT",
+    "nombre": "IGV"
+  },
+  {
+    "codigo": "1016",
+    "descripcion": "Impuesto a la Venta Arroz Pilado",
+    "codigo_internacional": "VAT",
+    "nombre": "IVAP"
+  },
+  {
+    "codigo": "2000",
+    "descripcion": "ISC Impuesto Selectivo al Consumo",
+    "codigo_internacional": "EXC",
+    "nombre": "ISC"
+  },
+  {
+    "codigo": "3000",
+    "descripcion": "Impuesto a la Renta",
+    "codigo_internacional": "TOX",
+    "nombre": "IR"
+  },
+  {
+    "codigo": "7152",
+    "descripcion": "Impuesto a la bolsa plastica",
+    "codigo_internacional": "OTH",
+    "nombre": "ICBPER"
+  },
+  {
+    "codigo": "9995",
+    "descripcion": "Exportación",
+    "codigo_internacional": "FRE",
+    "nombre": "EXP"
+  },
+  {
+    "codigo": "9996",
+    "descripcion": "Gratuito",
+    "codigo_internacional": "FRE",
+    "nombre": "GRA"
+  },
+  {
+    "codigo": "9997",
+    "descripcion": "Exonerado",
+    "codigo_internacional": "VAT",
+    "nombre": "EXO"
+  },
+  {
+    "codigo": "9998",
+    "descripcion": "Inafecto",
+    "codigo_internacional": "FRE",
+    "nombre": "INA"
+  },
+  {
+    "codigo": "9999",
+    "descripcion": "Otros tributos",
+    "codigo_internacional": "OTH",
+    "nombre": "OTROS"
+  }
+]
