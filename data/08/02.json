@@ -1,0 +1,1955 @@
+[
+  {
+    "CountryName": "AFGHANISTAN",
+    "CurrencyName": "Afghani",
+    "Currency": "AFN",
+    "CurrencyNumber": 971,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ÅLAND ISLANDS",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ALBANIA",
+    "CurrencyName": "Lek",
+    "Currency": "ALL",
+    "CurrencyNumber": 8,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ALGERIA",
+    "CurrencyName": "Algerian Dinar",
+    "Currency": "DZD",
+    "CurrencyNumber": 12,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "AMERICAN SAMOA",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ANDORRA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ANGOLA",
+    "CurrencyName": "Kwanza",
+    "Currency": "AOA",
+    "CurrencyNumber": 973,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ANGUILLA",
+    "CurrencyName": "East Caribbean Dollar",
+    "Currency": "XCD",
+    "CurrencyNumber": 951,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ANTARCTICA",
+    "CurrencyName": "No universal currency",
+    "Currency": "",
+    "CurrencyNumber": null,
+    "CurrencyMeasurementUnits": ""
+  },
+  {
+    "CountryName": "ANTIGUA AND BARBUDA",
+    "CurrencyName": "East Caribbean Dollar",
+    "Currency": "XCD",
+    "CurrencyNumber": 951,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ARGENTINA",
+    "CurrencyName": "Argentine Peso",
+    "Currency": "ARS",
+    "CurrencyNumber": 32,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ARMENIA",
+    "CurrencyName": "Armenian Dram",
+    "Currency": "AMD",
+    "CurrencyNumber": 51,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ARUBA",
+    "CurrencyName": "Aruban Florin",
+    "Currency": "AWG",
+    "CurrencyNumber": 533,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "AUSTRALIA",
+    "CurrencyName": "Australian Dollar",
+    "Currency": "AUD",
+    "CurrencyNumber": 36,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "AUSTRIA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "AZERBAIJAN",
+    "CurrencyName": "Azerbaijan Manat",
+    "Currency": "AZN",
+    "CurrencyNumber": 944,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BAHAMAS (THE)",
+    "CurrencyName": "Bahamian Dollar",
+    "Currency": "BSD",
+    "CurrencyNumber": 44,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BAHRAIN",
+    "CurrencyName": "Bahraini Dinar",
+    "Currency": "BHD",
+    "CurrencyNumber": 48,
+    "CurrencyMeasurementUnits": "3"
+  },
+  {
+    "CountryName": "BANGLADESH",
+    "CurrencyName": "Taka",
+    "Currency": "BDT",
+    "CurrencyNumber": 50,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BARBADOS",
+    "CurrencyName": "Barbados Dollar",
+    "Currency": "BBD",
+    "CurrencyNumber": 52,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BELARUS",
+    "CurrencyName": "Belarusian Ruble",
+    "Currency": "BYN",
+    "CurrencyNumber": 933,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BELGIUM",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BELIZE",
+    "CurrencyName": "Belize Dollar",
+    "Currency": "BZD",
+    "CurrencyNumber": 84,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BENIN",
+    "CurrencyName": "CFA Franc BCEAO",
+    "Currency": "XOF",
+    "CurrencyNumber": 952,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "BERMUDA",
+    "CurrencyName": "Bermudian Dollar",
+    "Currency": "BMD",
+    "CurrencyNumber": 60,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BHUTAN",
+    "CurrencyName": "Indian Rupee",
+    "Currency": "INR",
+    "CurrencyNumber": 356,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BHUTAN",
+    "CurrencyName": "Ngultrum",
+    "Currency": "BTN",
+    "CurrencyNumber": 64,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BOLIVIA (PLURINATIONAL STATE OF)",
+    "CurrencyName": "Boliviano",
+    "Currency": "BOB",
+    "CurrencyNumber": 68,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BOLIVIA (PLURINATIONAL STATE OF)",
+    "CurrencyName": "",
+    "Currency": "BOV",
+    "CurrencyNumber": 984,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BONAIRE, SINT EUSTATIUS AND SABA",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BOSNIA AND HERZEGOVINA",
+    "CurrencyName": "Convertible Mark",
+    "Currency": "BAM",
+    "CurrencyNumber": 977,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BOTSWANA",
+    "CurrencyName": "Pula",
+    "Currency": "BWP",
+    "CurrencyNumber": 72,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BOUVET ISLAND",
+    "CurrencyName": "Norwegian Krone",
+    "Currency": "NOK",
+    "CurrencyNumber": 578,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BRAZIL",
+    "CurrencyName": "Brazilian Real",
+    "Currency": "BRL",
+    "CurrencyNumber": 986,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BRITISH INDIAN OCEAN TERRITORY (THE)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BRUNEI DARUSSALAM",
+    "CurrencyName": "Brunei Dollar",
+    "Currency": "BND",
+    "CurrencyNumber": 96,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BULGARIA",
+    "CurrencyName": "Bulgarian Lev",
+    "Currency": "BGN",
+    "CurrencyNumber": 975,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "BURKINA FASO",
+    "CurrencyName": "CFA Franc BCEAO",
+    "Currency": "XOF",
+    "CurrencyNumber": 952,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "BURUNDI",
+    "CurrencyName": "Burundi Franc",
+    "Currency": "BIF",
+    "CurrencyNumber": 108,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "CABO VERDE",
+    "CurrencyName": "Cabo Verde Escudo",
+    "Currency": "CVE",
+    "CurrencyNumber": 132,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CAMBODIA",
+    "CurrencyName": "Riel",
+    "Currency": "KHR",
+    "CurrencyNumber": 116,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CAMEROON",
+    "CurrencyName": "CFA Franc BEAC",
+    "Currency": "XAF",
+    "CurrencyNumber": 950,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "CANADA",
+    "CurrencyName": "Canadian Dollar",
+    "Currency": "CAD",
+    "CurrencyNumber": 124,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CAYMAN ISLANDS (THE)",
+    "CurrencyName": "Cayman Islands Dollar",
+    "Currency": "KYD",
+    "CurrencyNumber": 136,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CENTRAL AFRICAN REPUBLIC (THE)",
+    "CurrencyName": "CFA Franc BEAC",
+    "Currency": "XAF",
+    "CurrencyNumber": 950,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "CHAD",
+    "CurrencyName": "CFA Franc BEAC",
+    "Currency": "XAF",
+    "CurrencyNumber": 950,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "CHILE",
+    "CurrencyName": "Chilean Peso",
+    "Currency": "CLP",
+    "CurrencyNumber": 152,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "CHILE",
+    "CurrencyName": "",
+    "Currency": "CLF",
+    "CurrencyNumber": 990,
+    "CurrencyMeasurementUnits": "4"
+  },
+  {
+    "CountryName": "CHINA",
+    "CurrencyName": "Yuan Renminbi",
+    "Currency": "CNY",
+    "CurrencyNumber": 156,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CHRISTMAS ISLAND",
+    "CurrencyName": "Australian Dollar",
+    "Currency": "AUD",
+    "CurrencyNumber": 36,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "COCOS (KEELING) ISLANDS (THE)",
+    "CurrencyName": "Australian Dollar",
+    "Currency": "AUD",
+    "CurrencyNumber": 36,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "COLOMBIA",
+    "CurrencyName": "Colombian Peso",
+    "Currency": "COP",
+    "CurrencyNumber": 170,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "COLOMBIA",
+    "CurrencyName": "",
+    "Currency": "COU",
+    "CurrencyNumber": 970,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "COMOROS (THE)",
+    "CurrencyName": "Comorian Franc",
+    "Currency": "KMF",
+    "CurrencyNumber": 174,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "CONGO (THE DEMOCRATIC REPUBLIC OF THE)",
+    "CurrencyName": "Congolese Franc",
+    "Currency": "CDF",
+    "CurrencyNumber": 976,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CONGO (THE)",
+    "CurrencyName": "CFA Franc BEAC",
+    "Currency": "XAF",
+    "CurrencyNumber": 950,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "COOK ISLANDS (THE)",
+    "CurrencyName": "New Zealand Dollar",
+    "Currency": "NZD",
+    "CurrencyNumber": 554,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "COSTA RICA",
+    "CurrencyName": "Costa Rican Colon",
+    "Currency": "CRC",
+    "CurrencyNumber": 188,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CÔTE D'IVOIRE",
+    "CurrencyName": "CFA Franc BCEAO",
+    "Currency": "XOF",
+    "CurrencyNumber": 952,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "CROATIA",
+    "CurrencyName": "Kuna",
+    "Currency": "HRK",
+    "CurrencyNumber": 191,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CUBA",
+    "CurrencyName": "Cuban Peso",
+    "Currency": "CUP",
+    "CurrencyNumber": 192,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CUBA",
+    "CurrencyName": "Peso Convertible",
+    "Currency": "CUC",
+    "CurrencyNumber": 931,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CURAÇAO",
+    "CurrencyName": "Netherlands Antillean Guilder",
+    "Currency": "ANG",
+    "CurrencyNumber": 532,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CYPRUS",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "CZECHIA",
+    "CurrencyName": "Czech Koruna",
+    "Currency": "CZK",
+    "CurrencyNumber": 203,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "DENMARK",
+    "CurrencyName": "Danish Krone",
+    "Currency": "DKK",
+    "CurrencyNumber": 208,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "DJIBOUTI",
+    "CurrencyName": "Djibouti Franc",
+    "Currency": "DJF",
+    "CurrencyNumber": 262,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "DOMINICA",
+    "CurrencyName": "East Caribbean Dollar",
+    "Currency": "XCD",
+    "CurrencyNumber": 951,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "DOMINICAN REPUBLIC (THE)",
+    "CurrencyName": "Dominican Peso",
+    "Currency": "DOP",
+    "CurrencyNumber": 214,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ECUADOR",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "EGYPT",
+    "CurrencyName": "Egyptian Pound",
+    "Currency": "EGP",
+    "CurrencyNumber": 818,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "EL SALVADOR",
+    "CurrencyName": "El Salvador Colon",
+    "Currency": "SVC",
+    "CurrencyNumber": 222,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "EL SALVADOR",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "EQUATORIAL GUINEA",
+    "CurrencyName": "CFA Franc BEAC",
+    "Currency": "XAF",
+    "CurrencyNumber": 950,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "ERITREA",
+    "CurrencyName": "Nakfa",
+    "Currency": "ERN",
+    "CurrencyNumber": 232,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ESTONIA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ESWATINI",
+    "CurrencyName": "Lilangeni",
+    "Currency": "SZL",
+    "CurrencyNumber": 748,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ETHIOPIA",
+    "CurrencyName": "Ethiopian Birr",
+    "Currency": "ETB",
+    "CurrencyNumber": 230,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "EUROPEAN UNION",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "FALKLAND ISLANDS (THE) [MALVINAS]",
+    "CurrencyName": "Falkland Islands Pound",
+    "Currency": "FKP",
+    "CurrencyNumber": 238,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "FAROE ISLANDS (THE)",
+    "CurrencyName": "Danish Krone",
+    "Currency": "DKK",
+    "CurrencyNumber": 208,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "FIJI",
+    "CurrencyName": "Fiji Dollar",
+    "Currency": "FJD",
+    "CurrencyNumber": 242,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "FINLAND",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "FRANCE",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "FRENCH GUIANA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "FRENCH POLYNESIA",
+    "CurrencyName": "CFP Franc",
+    "Currency": "XPF",
+    "CurrencyNumber": 953,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "FRENCH SOUTHERN TERRITORIES (THE)",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GABON",
+    "CurrencyName": "CFA Franc BEAC",
+    "Currency": "XAF",
+    "CurrencyNumber": 950,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "GAMBIA (THE)",
+    "CurrencyName": "Dalasi",
+    "Currency": "GMD",
+    "CurrencyNumber": 270,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GEORGIA",
+    "CurrencyName": "Lari",
+    "Currency": "GEL",
+    "CurrencyNumber": 981,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GERMANY",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GHANA",
+    "CurrencyName": "Ghana Cedi",
+    "Currency": "GHS",
+    "CurrencyNumber": 936,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GIBRALTAR",
+    "CurrencyName": "Gibraltar Pound",
+    "Currency": "GIP",
+    "CurrencyNumber": 292,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GREECE",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GREENLAND",
+    "CurrencyName": "Danish Krone",
+    "Currency": "DKK",
+    "CurrencyNumber": 208,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GRENADA",
+    "CurrencyName": "East Caribbean Dollar",
+    "Currency": "XCD",
+    "CurrencyNumber": 951,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GUADELOUPE",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GUAM",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GUATEMALA",
+    "CurrencyName": "Quetzal",
+    "Currency": "GTQ",
+    "CurrencyNumber": 320,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GUERNSEY",
+    "CurrencyName": "Pound Sterling",
+    "Currency": "GBP",
+    "CurrencyNumber": 826,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "GUINEA",
+    "CurrencyName": "Guinean Franc",
+    "Currency": "GNF",
+    "CurrencyNumber": 324,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "GUINEA-BISSAU",
+    "CurrencyName": "CFA Franc BCEAO",
+    "Currency": "XOF",
+    "CurrencyNumber": 952,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "GUYANA",
+    "CurrencyName": "Guyana Dollar",
+    "Currency": "GYD",
+    "CurrencyNumber": 328,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "HAITI",
+    "CurrencyName": "Gourde",
+    "Currency": "HTG",
+    "CurrencyNumber": 332,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "HAITI",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "HEARD ISLAND AND McDONALD ISLANDS",
+    "CurrencyName": "Australian Dollar",
+    "Currency": "AUD",
+    "CurrencyNumber": 36,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "HOLY SEE (THE)",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "HONDURAS",
+    "CurrencyName": "Lempira",
+    "Currency": "HNL",
+    "CurrencyNumber": 340,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "HONG KONG",
+    "CurrencyName": "Hong Kong Dollar",
+    "Currency": "HKD",
+    "CurrencyNumber": 344,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "HUNGARY",
+    "CurrencyName": "Forint",
+    "Currency": "HUF",
+    "CurrencyNumber": 348,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ICELAND",
+    "CurrencyName": "Iceland Krona",
+    "Currency": "ISK",
+    "CurrencyNumber": 352,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "INDIA",
+    "CurrencyName": "Indian Rupee",
+    "Currency": "INR",
+    "CurrencyNumber": 356,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "INDONESIA",
+    "CurrencyName": "Rupiah",
+    "Currency": "IDR",
+    "CurrencyNumber": 360,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "INTERNATIONAL MONETARY FUND (IMF)",
+    "CurrencyName": "SDR (Special Drawing Right)",
+    "Currency": "XDR",
+    "CurrencyNumber": 960,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "IRAN (ISLAMIC REPUBLIC OF)",
+    "CurrencyName": "Iranian Rial",
+    "Currency": "IRR",
+    "CurrencyNumber": 364,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "IRAQ",
+    "CurrencyName": "Iraqi Dinar",
+    "Currency": "IQD",
+    "CurrencyNumber": 368,
+    "CurrencyMeasurementUnits": "3"
+  },
+  {
+    "CountryName": "IRELAND",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ISLE OF MAN",
+    "CurrencyName": "Pound Sterling",
+    "Currency": "GBP",
+    "CurrencyNumber": 826,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ISRAEL",
+    "CurrencyName": "New Israeli Sheqel",
+    "Currency": "ILS",
+    "CurrencyNumber": 376,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ITALY",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "JAMAICA",
+    "CurrencyName": "Jamaican Dollar",
+    "Currency": "JMD",
+    "CurrencyNumber": 388,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "JAPAN",
+    "CurrencyName": "Yen",
+    "Currency": "JPY",
+    "CurrencyNumber": 392,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "JERSEY",
+    "CurrencyName": "Pound Sterling",
+    "Currency": "GBP",
+    "CurrencyNumber": 826,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "JORDAN",
+    "CurrencyName": "Jordanian Dinar",
+    "Currency": "JOD",
+    "CurrencyNumber": 400,
+    "CurrencyMeasurementUnits": "3"
+  },
+  {
+    "CountryName": "KAZAKHSTAN",
+    "CurrencyName": "Tenge",
+    "Currency": "KZT",
+    "CurrencyNumber": 398,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "KENYA",
+    "CurrencyName": "Kenyan Shilling",
+    "Currency": "KES",
+    "CurrencyNumber": 404,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "KIRIBATI",
+    "CurrencyName": "Australian Dollar",
+    "Currency": "AUD",
+    "CurrencyNumber": 36,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)",
+    "CurrencyName": "North Korean Won",
+    "Currency": "KPW",
+    "CurrencyNumber": 408,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "KOREA (THE REPUBLIC OF)",
+    "CurrencyName": "Won",
+    "Currency": "KRW",
+    "CurrencyNumber": 410,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "KUWAIT",
+    "CurrencyName": "Kuwaiti Dinar",
+    "Currency": "KWD",
+    "CurrencyNumber": 414,
+    "CurrencyMeasurementUnits": "3"
+  },
+  {
+    "CountryName": "KYRGYZSTAN",
+    "CurrencyName": "Som",
+    "Currency": "KGS",
+    "CurrencyNumber": 417,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)",
+    "CurrencyName": "Lao Kip",
+    "Currency": "LAK",
+    "CurrencyNumber": 418,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LATVIA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LEBANON",
+    "CurrencyName": "Lebanese Pound",
+    "Currency": "LBP",
+    "CurrencyNumber": 422,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LESOTHO",
+    "CurrencyName": "Loti",
+    "Currency": "LSL",
+    "CurrencyNumber": 426,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LESOTHO",
+    "CurrencyName": "Rand",
+    "Currency": "ZAR",
+    "CurrencyNumber": 710,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LIBERIA",
+    "CurrencyName": "Liberian Dollar",
+    "Currency": "LRD",
+    "CurrencyNumber": 430,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LIBYA",
+    "CurrencyName": "Libyan Dinar",
+    "Currency": "LYD",
+    "CurrencyNumber": 434,
+    "CurrencyMeasurementUnits": "3"
+  },
+  {
+    "CountryName": "LIECHTENSTEIN",
+    "CurrencyName": "Swiss Franc",
+    "Currency": "CHF",
+    "CurrencyNumber": 756,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LITHUANIA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "LUXEMBOURG",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MACAO",
+    "CurrencyName": "Pataca",
+    "Currency": "MOP",
+    "CurrencyNumber": 446,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)",
+    "CurrencyName": "Denar",
+    "Currency": "MKD",
+    "CurrencyNumber": 807,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MADAGASCAR",
+    "CurrencyName": "Malagasy Ariary",
+    "Currency": "MGA",
+    "CurrencyNumber": 969,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MALAWI",
+    "CurrencyName": "Malawi Kwacha",
+    "Currency": "MWK",
+    "CurrencyNumber": 454,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MALAYSIA",
+    "CurrencyName": "Malaysian Ringgit",
+    "Currency": "MYR",
+    "CurrencyNumber": 458,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MALDIVES",
+    "CurrencyName": "Rufiyaa",
+    "Currency": "MVR",
+    "CurrencyNumber": 462,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MALI",
+    "CurrencyName": "CFA Franc BCEAO",
+    "Currency": "XOF",
+    "CurrencyNumber": 952,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "MALTA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MARSHALL ISLANDS (THE)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MARTINIQUE",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MAURITANIA",
+    "CurrencyName": "Ouguiya",
+    "Currency": "MRU",
+    "CurrencyNumber": 929,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MAURITIUS",
+    "CurrencyName": "Mauritius Rupee",
+    "Currency": "MUR",
+    "CurrencyNumber": 480,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MAYOTTE",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP",
+    "CurrencyName": "ADB Unit of Account",
+    "Currency": "XUA",
+    "CurrencyNumber": 965,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "MEXICO",
+    "CurrencyName": "Mexican Peso",
+    "Currency": "MXN",
+    "CurrencyNumber": 484,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MEXICO",
+    "CurrencyName": "",
+    "Currency": "MXV",
+    "CurrencyNumber": 979,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MICRONESIA (FEDERATED STATES OF)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MOLDOVA (THE REPUBLIC OF)",
+    "CurrencyName": "Moldovan Leu",
+    "Currency": "MDL",
+    "CurrencyNumber": 498,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MONACO",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MONGOLIA",
+    "CurrencyName": "Tugrik",
+    "Currency": "MNT",
+    "CurrencyNumber": 496,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MONTENEGRO",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MONTSERRAT",
+    "CurrencyName": "East Caribbean Dollar",
+    "Currency": "XCD",
+    "CurrencyNumber": 951,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MOROCCO",
+    "CurrencyName": "Moroccan Dirham",
+    "Currency": "MAD",
+    "CurrencyNumber": 504,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MOZAMBIQUE",
+    "CurrencyName": "Mozambique Metical",
+    "Currency": "MZN",
+    "CurrencyNumber": 943,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "MYANMAR",
+    "CurrencyName": "Kyat",
+    "Currency": "MMK",
+    "CurrencyNumber": 104,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NAMIBIA",
+    "CurrencyName": "Namibia Dollar",
+    "Currency": "NAD",
+    "CurrencyNumber": 516,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NAMIBIA",
+    "CurrencyName": "Rand",
+    "Currency": "ZAR",
+    "CurrencyNumber": 710,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NAURU",
+    "CurrencyName": "Australian Dollar",
+    "Currency": "AUD",
+    "CurrencyNumber": 36,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NEPAL",
+    "CurrencyName": "Nepalese Rupee",
+    "Currency": "NPR",
+    "CurrencyNumber": 524,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NETHERLANDS (THE)",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NEW CALEDONIA",
+    "CurrencyName": "CFP Franc",
+    "Currency": "XPF",
+    "CurrencyNumber": 953,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "NEW ZEALAND",
+    "CurrencyName": "New Zealand Dollar",
+    "Currency": "NZD",
+    "CurrencyNumber": 554,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NICARAGUA",
+    "CurrencyName": "Cordoba Oro",
+    "Currency": "NIO",
+    "CurrencyNumber": 558,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NIGER (THE)",
+    "CurrencyName": "CFA Franc BCEAO",
+    "Currency": "XOF",
+    "CurrencyNumber": 952,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "NIGERIA",
+    "CurrencyName": "Naira",
+    "Currency": "NGN",
+    "CurrencyNumber": 566,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NIUE",
+    "CurrencyName": "New Zealand Dollar",
+    "Currency": "NZD",
+    "CurrencyNumber": 554,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NORFOLK ISLAND",
+    "CurrencyName": "Australian Dollar",
+    "Currency": "AUD",
+    "CurrencyNumber": 36,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NORTHERN MARIANA ISLANDS (THE)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "NORWAY",
+    "CurrencyName": "Norwegian Krone",
+    "Currency": "NOK",
+    "CurrencyNumber": 578,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "OMAN",
+    "CurrencyName": "Rial Omani",
+    "Currency": "OMR",
+    "CurrencyNumber": 512,
+    "CurrencyMeasurementUnits": "3"
+  },
+  {
+    "CountryName": "PAKISTAN",
+    "CurrencyName": "Pakistan Rupee",
+    "Currency": "PKR",
+    "CurrencyNumber": 586,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PALAU",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PALESTINE, STATE OF",
+    "CurrencyName": "No universal currency",
+    "Currency": "",
+    "CurrencyNumber": null,
+    "CurrencyMeasurementUnits": ""
+  },
+  {
+    "CountryName": "PANAMA",
+    "CurrencyName": "Balboa",
+    "Currency": "PAB",
+    "CurrencyNumber": 590,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PANAMA",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PAPUA NEW GUINEA",
+    "CurrencyName": "Kina",
+    "Currency": "PGK",
+    "CurrencyNumber": 598,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PARAGUAY",
+    "CurrencyName": "Guarani",
+    "Currency": "PYG",
+    "CurrencyNumber": 600,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "PERU",
+    "CurrencyName": "Sol",
+    "Currency": "PEN",
+    "CurrencyNumber": 604,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PHILIPPINES (THE)",
+    "CurrencyName": "Philippine Peso",
+    "Currency": "PHP",
+    "CurrencyNumber": 608,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PITCAIRN",
+    "CurrencyName": "New Zealand Dollar",
+    "Currency": "NZD",
+    "CurrencyNumber": 554,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "POLAND",
+    "CurrencyName": "Zloty",
+    "Currency": "PLN",
+    "CurrencyNumber": 985,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PORTUGAL",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "PUERTO RICO",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "QATAR",
+    "CurrencyName": "Qatari Rial",
+    "Currency": "QAR",
+    "CurrencyNumber": 634,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "RÉUNION",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ROMANIA",
+    "CurrencyName": "Romanian Leu",
+    "Currency": "RON",
+    "CurrencyNumber": 946,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "RUSSIAN FEDERATION (THE)",
+    "CurrencyName": "Russian Ruble",
+    "Currency": "RUB",
+    "CurrencyNumber": 643,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "RWANDA",
+    "CurrencyName": "Rwanda Franc",
+    "Currency": "RWF",
+    "CurrencyNumber": 646,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "SAINT BARTHÉLEMY",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "CurrencyName": "Saint Helena Pound",
+    "Currency": "SHP",
+    "CurrencyNumber": 654,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAINT KITTS AND NEVIS",
+    "CurrencyName": "East Caribbean Dollar",
+    "Currency": "XCD",
+    "CurrencyNumber": 951,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAINT LUCIA",
+    "CurrencyName": "East Caribbean Dollar",
+    "Currency": "XCD",
+    "CurrencyNumber": 951,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAINT MARTIN (FRENCH PART)",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAINT PIERRE AND MIQUELON",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAINT VINCENT AND THE GRENADINES",
+    "CurrencyName": "East Caribbean Dollar",
+    "Currency": "XCD",
+    "CurrencyNumber": 951,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAMOA",
+    "CurrencyName": "Tala",
+    "Currency": "WST",
+    "CurrencyNumber": 882,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAN MARINO",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAO TOME AND PRINCIPE",
+    "CurrencyName": "Dobra",
+    "Currency": "STN",
+    "CurrencyNumber": 930,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SAUDI ARABIA",
+    "CurrencyName": "Saudi Riyal",
+    "Currency": "SAR",
+    "CurrencyNumber": 682,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SENEGAL",
+    "CurrencyName": "CFA Franc BCEAO",
+    "Currency": "XOF",
+    "CurrencyNumber": 952,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "SERBIA",
+    "CurrencyName": "Serbian Dinar",
+    "Currency": "RSD",
+    "CurrencyNumber": 941,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SEYCHELLES",
+    "CurrencyName": "Seychelles Rupee",
+    "Currency": "SCR",
+    "CurrencyNumber": 690,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SIERRA LEONE",
+    "CurrencyName": "Leone",
+    "Currency": "SLL",
+    "CurrencyNumber": 694,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SINGAPORE",
+    "CurrencyName": "Singapore Dollar",
+    "Currency": "SGD",
+    "CurrencyNumber": 702,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SINT MAARTEN (DUTCH PART)",
+    "CurrencyName": "Netherlands Antillean Guilder",
+    "Currency": "ANG",
+    "CurrencyNumber": 532,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS \"SUCRE\"",
+    "CurrencyName": "Sucre",
+    "Currency": "XSU",
+    "CurrencyNumber": 994,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "SLOVAKIA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SLOVENIA",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SOLOMON ISLANDS",
+    "CurrencyName": "Solomon Islands Dollar",
+    "Currency": "SBD",
+    "CurrencyNumber": 90,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SOMALIA",
+    "CurrencyName": "Somali Shilling",
+    "Currency": "SOS",
+    "CurrencyNumber": 706,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SOUTH AFRICA",
+    "CurrencyName": "Rand",
+    "Currency": "ZAR",
+    "CurrencyNumber": 710,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "CurrencyName": "No universal currency",
+    "Currency": "",
+    "CurrencyNumber": null,
+    "CurrencyMeasurementUnits": ""
+  },
+  {
+    "CountryName": "SOUTH SUDAN",
+    "CurrencyName": "South Sudanese Pound",
+    "Currency": "SSP",
+    "CurrencyNumber": 728,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SPAIN",
+    "CurrencyName": "Euro",
+    "Currency": "EUR",
+    "CurrencyNumber": 978,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SRI LANKA",
+    "CurrencyName": "Sri Lanka Rupee",
+    "Currency": "LKR",
+    "CurrencyNumber": 144,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SUDAN (THE)",
+    "CurrencyName": "Sudanese Pound",
+    "Currency": "SDG",
+    "CurrencyNumber": 938,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SURINAME",
+    "CurrencyName": "Surinam Dollar",
+    "Currency": "SRD",
+    "CurrencyNumber": 968,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SVALBARD AND JAN MAYEN",
+    "CurrencyName": "Norwegian Krone",
+    "Currency": "NOK",
+    "CurrencyNumber": 578,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SWEDEN",
+    "CurrencyName": "Swedish Krona",
+    "Currency": "SEK",
+    "CurrencyNumber": 752,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SWITZERLAND",
+    "CurrencyName": "Swiss Franc",
+    "Currency": "CHF",
+    "CurrencyNumber": 756,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SWITZERLAND",
+    "CurrencyName": "",
+    "Currency": "CHE",
+    "CurrencyNumber": 947,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SWITZERLAND",
+    "CurrencyName": "",
+    "Currency": "CHW",
+    "CurrencyNumber": 948,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "SYRIAN ARAB REPUBLIC",
+    "CurrencyName": "Syrian Pound",
+    "Currency": "SYP",
+    "CurrencyNumber": 760,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TAIWAN (PROVINCE OF CHINA)",
+    "CurrencyName": "New Taiwan Dollar",
+    "Currency": "TWD",
+    "CurrencyNumber": 901,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TAJIKISTAN",
+    "CurrencyName": "Somoni",
+    "Currency": "TJS",
+    "CurrencyNumber": 972,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TANZANIA, UNITED REPUBLIC OF",
+    "CurrencyName": "Tanzanian Shilling",
+    "Currency": "TZS",
+    "CurrencyNumber": 834,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "THAILAND",
+    "CurrencyName": "Baht",
+    "Currency": "THB",
+    "CurrencyNumber": 764,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TIMOR-LESTE",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TOGO",
+    "CurrencyName": "CFA Franc BCEAO",
+    "Currency": "XOF",
+    "CurrencyNumber": 952,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "TOKELAU",
+    "CurrencyName": "New Zealand Dollar",
+    "Currency": "NZD",
+    "CurrencyNumber": 554,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TONGA",
+    "CurrencyName": "Pa’anga",
+    "Currency": "TOP",
+    "CurrencyNumber": 776,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TRINIDAD AND TOBAGO",
+    "CurrencyName": "Trinidad and Tobago Dollar",
+    "Currency": "TTD",
+    "CurrencyNumber": 780,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TUNISIA",
+    "CurrencyName": "Tunisian Dinar",
+    "Currency": "TND",
+    "CurrencyNumber": 788,
+    "CurrencyMeasurementUnits": "3"
+  },
+  {
+    "CountryName": "TURKEY",
+    "CurrencyName": "Turkish Lira",
+    "Currency": "TRY",
+    "CurrencyNumber": 949,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TURKMENISTAN",
+    "CurrencyName": "Turkmenistan New Manat",
+    "Currency": "TMT",
+    "CurrencyNumber": 934,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TURKS AND CAICOS ISLANDS (THE)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "TUVALU",
+    "CurrencyName": "Australian Dollar",
+    "Currency": "AUD",
+    "CurrencyNumber": 36,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "UGANDA",
+    "CurrencyName": "Uganda Shilling",
+    "Currency": "UGX",
+    "CurrencyNumber": 800,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "UKRAINE",
+    "CurrencyName": "Hryvnia",
+    "Currency": "UAH",
+    "CurrencyNumber": 980,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "UNITED ARAB EMIRATES (THE)",
+    "CurrencyName": "UAE Dirham",
+    "Currency": "AED",
+    "CurrencyNumber": 784,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)",
+    "CurrencyName": "Pound Sterling",
+    "Currency": "GBP",
+    "CurrencyNumber": 826,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "UNITED STATES MINOR OUTLYING ISLANDS (THE)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "UNITED STATES OF AMERICA (THE)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "UNITED STATES OF AMERICA (THE)",
+    "CurrencyName": "",
+    "Currency": "USN",
+    "CurrencyNumber": 997,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "URUGUAY",
+    "CurrencyName": "Peso Uruguayo",
+    "Currency": "UYU",
+    "CurrencyNumber": 858,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "URUGUAY",
+    "CurrencyName": "",
+    "Currency": "UYI",
+    "CurrencyNumber": 940,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "URUGUAY",
+    "CurrencyName": "Unidad Previsional",
+    "Currency": "UYW",
+    "CurrencyNumber": 927,
+    "CurrencyMeasurementUnits": "4"
+  },
+  {
+    "CountryName": "UZBEKISTAN",
+    "CurrencyName": "Uzbekistan Sum",
+    "Currency": "UZS",
+    "CurrencyNumber": 860,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "VANUATU",
+    "CurrencyName": "Vatu",
+    "Currency": "VUV",
+    "CurrencyNumber": 548,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+    "CurrencyName": "Bolívar Soberano",
+    "Currency": "VES",
+    "CurrencyNumber": 928,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "VIET NAM",
+    "CurrencyName": "Dong",
+    "Currency": "VND",
+    "CurrencyNumber": 704,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "VIRGIN ISLANDS (BRITISH)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "VIRGIN ISLANDS (U.S.)",
+    "CurrencyName": "US Dollar",
+    "Currency": "USD",
+    "CurrencyNumber": 840,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "WALLIS AND FUTUNA",
+    "CurrencyName": "CFP Franc",
+    "Currency": "XPF",
+    "CurrencyNumber": 953,
+    "CurrencyMeasurementUnits": "0"
+  },
+  {
+    "CountryName": "WESTERN SAHARA",
+    "CurrencyName": "Moroccan Dirham",
+    "Currency": "MAD",
+    "CurrencyNumber": 504,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "YEMEN",
+    "CurrencyName": "Yemeni Rial",
+    "Currency": "YER",
+    "CurrencyNumber": 886,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ZAMBIA",
+    "CurrencyName": "Zambian Kwacha",
+    "Currency": "ZMW",
+    "CurrencyNumber": 967,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ZIMBABWE",
+    "CurrencyName": "Zimbabwe Dollar",
+    "Currency": "ZWL",
+    "CurrencyNumber": 932,
+    "CurrencyMeasurementUnits": "2"
+  },
+  {
+    "CountryName": "ZZ01_Bond Markets Unit European_EURCO",
+    "CurrencyName": "Bond Markets Unit European Composite Unit (EURCO)",
+    "Currency": "XBA",
+    "CurrencyNumber": 955,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ02_Bond Markets Unit European_EMU-6",
+    "CurrencyName": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+    "Currency": "XBB",
+    "CurrencyNumber": 956,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ03_Bond Markets Unit European_EUA-9",
+    "CurrencyName": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+    "Currency": "XBC",
+    "CurrencyNumber": 957,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ04_Bond Markets Unit European_EUA-17",
+    "CurrencyName": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+    "Currency": "XBD",
+    "CurrencyNumber": 958,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ06_Testing_Code",
+    "CurrencyName": "Codes specifically reserved for testing purposes",
+    "Currency": "XTS",
+    "CurrencyNumber": 963,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ07_No_Currency",
+    "CurrencyName": "The codes assigned for transactions where no currency is involved",
+    "Currency": "XXX",
+    "CurrencyNumber": 999,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ08_Gold",
+    "CurrencyName": "Gold",
+    "Currency": "XAU",
+    "CurrencyNumber": 959,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ09_Palladium",
+    "CurrencyName": "Palladium",
+    "Currency": "XPD",
+    "CurrencyNumber": 964,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ10_Platinum",
+    "CurrencyName": "Platinum",
+    "Currency": "XPT",
+    "CurrencyNumber": 962,
+    "CurrencyMeasurementUnits": "N.A."
+  },
+  {
+    "CountryName": "ZZ11_Silver",
+    "CurrencyName": "Silver",
+    "Currency": "XAG",
+    "CurrencyNumber": 961,
+    "CurrencyMeasurementUnits": "N.A."
+  }
+]
