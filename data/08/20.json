@@ -1,0 +1,38 @@
+[
+  {
+    "codigo": "01",
+    "descripcion": "Venta"
+  },
+  {
+    "codigo": "02",
+    "descripcion": "Compra"
+  },
+  {
+    "codigo": "04",
+    "descripcion": "Traslado entre establecimientos de la misma empresa"
+  },
+  {
+    "codigo": "08",
+    "descripcion": "Importación"
+  },
+  {
+    "codigo": "09",
+    "descripcion": "Exportación"
+  },
+  {
+    "codigo": "13",
+    "descripcion": "Otros"
+  },
+  {
+    "codigo": "14",
+    "descripcion": "Venta sujeta a confirmación del comprador"
+  },
+  {
+    "codigo": "18",
+    "descripcion": "Traslado emisor itinerante CP"
+  },
+  {
+    "codigo": "19",
+    "descripcion": "Traslado a zona primaria"
+  }
+]

@@ -1,0 +1,10 @@
+codigo,descripcion
+01,Venta
+02,Compra
+04,Traslado entre establecimientos de la misma empresa
+08,Importación
+09,Exportación
+13,Otros
+14,Venta sujeta a confirmación del comprador
+18,Traslado emisor itinerante CP
+19,Traslado a zona primaria
