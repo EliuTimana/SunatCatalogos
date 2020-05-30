@@ -3,6 +3,7 @@ module.exports = {
     description: 'SUNAT : Catálogo de Códigos',
     themeConfig: {
         lastUpdated: 'Last Updated',
+        logo: 'https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/sunat-logo.svg',
         sidebar: [
             '/',
             'cat-08'
