@@ -1,0 +1,182 @@
+[
+  {
+    "codigo": "1000",
+    "descripcion": "Monto en Letras"
+  },
+  {
+    "codigo": "1002",
+    "descripcion": "Leyenda \"TRANSFERENCIA GRATUITA DE UN BIEN Y/O SERVICIO PRESTADO GRATUITAMENTE\""
+  },
+  {
+    "codigo": "2000",
+    "descripcion": "Leyenda “COMPROBANTE DE PERCEPCIÓN”"
+  },
+  {
+    "codigo": "2001",
+    "descripcion": "Leyenda “BIENES TRANSFERIDOS EN LA AMAZONÍA REGIÓN SELVAPARA SER CONSUMIDOS EN LA MISMA\""
+  },
+  {
+    "codigo": "2002",
+    "descripcion": "Leyenda “SERVICIOS PRESTADOS EN LA AMAZONÍA  REGIÓN SELVA PARA SER CONSUMIDOS EN LA MISMA”"
+  },
+  {
+    "codigo": "2003",
+    "descripcion": "Leyenda “CONTRATOS DE CONSTRUCCIÓN EJECUTADOS  EN LA AMAZONÍA REGIÓN SELVA”"
+  },
+  {
+    "codigo": "2004",
+    "descripcion": "Leyenda “Agencia de Viaje - Paquete turístico” "
+  },
+  {
+    "codigo": "2005",
+    "descripcion": "Leyenda “Venta realizada por emisor itinerante” "
+  },
+  {
+    "codigo": "2006",
+    "descripcion": "Leyenda: Operación sujeta a detracción"
+  },
+  {
+    "codigo": "2007",
+    "descripcion": "Leyenda: Operación sujeta a IVAP"
+  },
+  {
+    "codigo": "2010",
+    "descripcion": "Restitución Simplificado de Derechos Arancelarios"
+  },
+  {
+    "codigo": "3000",
+    "descripcion": "Detracciones: CODIGO DE BB Y SS SUJETOS A DETRACCION"
+  },
+  {
+    "codigo": "3001",
+    "descripcion": "Detracciones: NUMERO DE CTA EN EL BN"
+  },
+  {
+    "codigo": "3002",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos-Nombre y matrícula de la embarcación"
+  },
+  {
+    "codigo": "3003",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos-Tipo y cantidad de especie vendida"
+  },
+  {
+    "codigo": "3004",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos -Lugar de descarga"
+  },
+  {
+    "codigo": "3005",
+    "descripcion": "Detracciones: Recursos Hidrobiológicos -Fecha de descarga"
+  },
+  {
+    "codigo": "3006",
+    "descripcion": "Detracciones: Transporte Bienes vía terrestre – Numero Registro MTC"
+  },
+  {
+    "codigo": "3007",
+    "descripcion": "Detracciones: Transporte Bienes vía terrestre – configuración vehicular"
+  },
+  {
+    "codigo": "3008",
+    "descripcion": "Detracciones: Transporte Bienes vía terrestre – punto de origen"
+  },
+  {
+    "codigo": "3009",
+    "descripcion": "Detracciones: Transporte Bienes vía terrestre – punto destino"
+  },
+  {
+    "codigo": "3010",
+    "descripcion": "Detracciones: Transporte Bienes vía terrestre – valor referencial preliminar"
+  },
+  {
+    "codigo": "4000",
+    "descripcion": "Beneficio hospedajes: Código País de emisión del pasaporte"
+  },
+  {
+    "codigo": "4001",
+    "descripcion": "Beneficio hospedajes: Código País de residencia del sujeto no domiciliado"
+  },
+  {
+    "codigo": "4002",
+    "descripcion": "Beneficio Hospedajes: Fecha de ingreso al país "
+  },
+  {
+    "codigo": "4003",
+    "descripcion": "Beneficio Hospedajes: Fecha de ingreso al establecimiento"
+  },
+  {
+    "codigo": "4004",
+    "descripcion": "Beneficio Hospedajes: Fecha de salida del establecimiento"
+  },
+  {
+    "codigo": "4005",
+    "descripcion": "Beneficio Hospedajes: Número de días de permanencia"
+  },
+  {
+    "codigo": "4006",
+    "descripcion": "Beneficio Hospedajes: Fecha de consumo "
+  },
+  {
+    "codigo": "4007",
+    "descripcion": "Beneficio Hospedajes: Paquete turístico - Nombres y Apellidos del Huésped "
+  },
+  {
+    "codigo": "4008",
+    "descripcion": "Beneficio Hospedajes: Paquete turístico – Tipo documento identidad del huésped  "
+  },
+  {
+    "codigo": "4009",
+    "descripcion": "Beneficio Hospedajes: Paquete turístico – Numero de documento identidad de huésped "
+  },
+  {
+    "codigo": "5000",
+    "descripcion": "Proveedores Estado: Número de Expediente"
+  },
+  {
+    "codigo": "5001",
+    "descripcion": "Proveedores Estado : Código de unidad ejecutora"
+  },
+  {
+    "codigo": "5002",
+    "descripcion": "Proveedores Estado : N° de proceso de selección"
+  },
+  {
+    "codigo": "5003",
+    "descripcion": "Proveedores Estado : N° de contrato"
+  },
+  {
+    "codigo": "6000",
+    "descripcion": "Comercialización de Oro :  Código Unico Concesión Minera"
+  },
+  {
+    "codigo": "6001",
+    "descripcion": "Comercialización de Oro :  N° declaración compromiso"
+  },
+  {
+    "codigo": "6002",
+    "descripcion": "Comercialización de Oro :  N° Reg. Especial .Comerci. Oro"
+  },
+  {
+    "codigo": "6003",
+    "descripcion": "Comercialización de Oro :  N° Resolución que autoriza Planta de Beneficio"
+  },
+  {
+    "codigo": "6004",
+    "descripcion": "Comercialización de Oro : Ley Mineral (% concent. oro)"
+  },
+  {
+    "codigo": "6005",
+    "descripcion": "Comercialización de Oro : Naturaleza del mineral"
+  },
+  {
+    "codigo": "6006",
+    "descripcion": "Comercialización de Oro : Nombre del derecho minero"
+  },
+  {
+    "codigo": "7000",
+    "descripcion": "Primera venta de mercancia identificable entre usuarios de la zona comercial"
+  },
+  {
+    "codigo": "7001",
+    "descripcion": "Venta exonerada del IGV-ISC-IPM. Prohibida la venta fuera de la zona comercial de Tacna"
+  }
+]
