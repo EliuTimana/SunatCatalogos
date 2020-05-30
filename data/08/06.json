@@ -1,0 +1,42 @@
+[
+  {
+    "codigo": "0",
+    "descripcion": "DOC.TRIB.NO.DOM.SIN.RUC"
+  },
+  {
+    "codigo": "1",
+    "descripcion": "Documento Nacional de Identidad"
+  },
+  {
+    "codigo": "4",
+    "descripcion": "Carnet de extranjería"
+  },
+  {
+    "codigo": "6",
+    "descripcion": "Registro Unico de Contributentes"
+  },
+  {
+    "codigo": "7",
+    "descripcion": "Pasaporte"
+  },
+  {
+    "codigo": "A",
+    "descripcion": "Cédula Diplomática de identidad"
+  },
+  {
+    "codigo": "B",
+    "descripcion": "DOC.IDENT.PAIS.RESIDENCIA-NO.D"
+  },
+  {
+    "codigo": "C",
+    "descripcion": "Tax Identification Number - TIN – Doc Trib PP.NN"
+  },
+  {
+    "codigo": "D",
+    "descripcion": "Identification Number - IN – Doc Trib PP. JJ"
+  },
+  {
+    "codigo": "E",
+    "descripcion": "TAM- Tarjeta Andina de Migración "
+  }
+]
