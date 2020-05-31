@@ -35,7 +35,7 @@
                             <a class="page-link" href="#" tabindex="-1" @click.prevent="page--">Anterior</a>
                         </li>
                         <li class="page-item disabled">
-                            <a class="page-link" href="#">{{page}}</a>
+                            <a class="page-link" href="#">{{page}}/{{pages}}</a>
                         </li>
                         <li class="page-item" :class="{disabled: page===pages || pages === 0}">
                             <a class="page-link" href="#" @click.prevent="page++">Siguiente</a>
