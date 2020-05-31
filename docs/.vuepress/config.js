@@ -10,7 +10,7 @@ module.exports = ctx => ({
     themeConfig: {
         searchPlaceholder: 'Buscar...',
         lastUpdated: 'Última Actualización',
-        logo: 'https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/sunat-logo.svg',
+        logo: '/icons/android-chrome-192x192.png',
         sidebar: [
             '/',
             'cat-08'
@@ -18,12 +18,14 @@ module.exports = ctx => ({
     },
     head: [
         ['meta', {name: "viewport", content: "width=device-width, initial-scale=1, shrink-to-fit=no"}],
-        ['link', {rel: 'icon', href: '/icons/favicon-32x32.png'}],
+        ['link', {rel: 'icon', href: '/icons/favicon.ico'}],
         ['link', {rel: 'manifest', href: '/manifest.json'}],
         ['meta', {name: 'theme-color', content: '#1e88e5'}],
         ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
         ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],
         ['link', {rel: 'apple-touch-icon', href: '/icons/apple-touch-icon.png'}],
+        ['link', {rel: "icon", type: "image/png", sizes: "32x32", href: "/icons/favicon-32x32.png"}],
+        ['link', {rel: "icon", type: "image/png", sizes: "16x16", href: "/icons/favicon-16x16.png"}],
         ['link', {rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#1e88e5'}],
         ['meta', {name: 'msapplication-TileImage', content: '/icons/mstile-144x144.png'}],
         ['meta', {name: 'msapplication-TileColor', content: '#1e88e5'}],
@@ -40,6 +42,11 @@ module.exports = ctx => ({
         ['link', {
             href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css',
             rel: "stylesheet"
+        }],
+        ['script', {
+            'data-ad-client': 'ca-pub-9384967978631761',
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+            async: ''
         }]
     ],
     plugins: {

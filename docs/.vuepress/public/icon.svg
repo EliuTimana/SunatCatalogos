@@ -7,42 +7,42 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="icon.svg"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
-   id="svg132"
-   version="1.1"
-   viewBox="0 0 8.0000009 8"
+   width="8.000001mm"
    height="8mm"
-   width="8.000001mm">
+   viewBox="0 0 8.0000009 8"
+   version="1.1"
+   id="svg132"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   sodipodi:docname="icon.svg">
   <defs
      id="defs126" />
   <sodipodi:namedview
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox="true"
-     inkscape:window-maximized="1"
-     inkscape:window-y="28"
-     inkscape:window-x="0"
-     inkscape:window-height="686"
-     inkscape:window-width="1366"
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="17.372039"
-     inkscape:cx="12.032696"
-     inkscape:zoom="11.313709"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="23.444373"
+     inkscape:cy="9.6890448"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="686"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
   <metadata
      id="metadata129">
     <rdf:RDF>
@@ -51,46 +51,47 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-93.592789,-155.59506)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(-93.592789,-155.59506)">
+    <rect
+       style="fill:#0163ac;fill-opacity:1;stroke-width:0.291293"
+       id="rect78"
+       width="8"
+       height="8"
+       x="93.592789"
+       y="155.59506" />
     <rect
        y="155.59506"
        x="93.592789"
-       height="8"
-       width="8"
-       id="rect78"
-       style="fill:#0163ac;fill-opacity:1;stroke-width:0.291293" />
-    <rect
-       style="fill:#ae0d41;fill-opacity:1;stroke-width:0.205975"
-       id="rect22"
-       width="8"
        height="4"
-       x="93.592789"
-       y="155.59506" />
+       width="8"
+       id="rect22"
+       style="fill:#ae0d41;fill-opacity:1;stroke-width:0.205975" />
     <path
-       id="path11"
+       d="m 97.592789,159.59506 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2"
        style="fill:#0163ac;fill-opacity:1;stroke-width:0.159187"
-       d="m 97.592789,159.59506 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2" />
+       id="path11" />
     <path
-       id="circle24"
+       d="m 101.59279,159.59506 a 2,2 0 0 1 -2.000001,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2.000001,2"
        style="fill:#ae0d41;fill-opacity:1;stroke-width:0.159187"
-       d="m 101.59279,159.59506 a 2,2 0 0 1 -2.000001,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2.000001,2" />
-    <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.62402px;line-height:1.25;font-family:'Khmer OS Freehand';-inkscape-font-specification:'Khmer OS Freehand';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.165601"
-       id="text189"
-       transform="matrix(1.3008284,0,0,1.1829772,-23.17049,-38.382094)"
-       aria-label="D">
-      <path
-         id="path900"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff;stroke-width:0.165601"
-         d="m 92.262692,168.73947 q 0.03312,0.007 0.07286,0.007 0.03974,0 0.07286,0 0.278209,0 0.463682,-0.10598 0.192096,-0.10599 0.304705,-0.29146 0.119232,-0.18547 0.1656,-0.43718 0.05299,-0.25834 0.05299,-0.56305 0,-0.26496 -0.03974,-0.51667 -0.03974,-0.25171 -0.139104,-0.44381 -0.09936,-0.1921 -0.271585,-0.3047 -0.172224,-0.11924 -0.443809,-0.11924 -0.05299,0 -0.119233,0.007 -0.06624,0 -0.119232,0.0132 z m 1.96071,-1.39105 q 0,0.56967 -0.145728,0.97374 -0.139105,0.39744 -0.390818,0.64915 -0.251712,0.25171 -0.602785,0.37094 -0.34445,0.11261 -0.761763,0.11261 -0.218592,0 -0.430561,-0.0265 -0.205345,-0.0199 -0.443809,-0.0729 v -4.00091 q 0.278208,-0.0596 0.523297,-0.0795 0.245089,-0.0199 0.457058,-0.0199 0.404065,0 0.735266,0.11924 0.337825,0.11923 0.569665,0.37757 0.231841,0.25171 0.357698,0.64915 0.13248,0.39082 0.13248,0.94723 z" />
-    </g>
+       id="circle24" />
+    <text
+       id="text23"
+       y="162.33121"
+       x="95.055267"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.30167px;line-height:1.25;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207542"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#ffffff;stroke-width:0.207542"
+         y="162.33121"
+         x="95.055267"
+         id="tspan21"
+         sodipodi:role="line">C</tspan></text>
   </g>
 </svg>
