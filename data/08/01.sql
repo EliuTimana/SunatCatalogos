@@ -1,8 +1,8 @@
 CREATE TABLE table_01(
    codigo      VARCHAR(2) NOT NULL PRIMARY KEY
-  ,descripción VARCHAR(225) NOT NULL
+  ,descripcion VARCHAR(225) NOT NULL
 );
-INSERT INTO table_01(codigo,descripción) VALUES
+INSERT INTO table_01(codigo,descripcion) VALUES
  ('01','Factura')
 ,('03','Boleta de venta')
 ,('04','Liquidación de compra')

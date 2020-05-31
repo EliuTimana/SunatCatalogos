@@ -1,162 +1,162 @@
 [
   {
-    "codigo": 1,
-    "descripción": "Factura"
+    "codigo": "01",
+    "descripcion": "Factura"
   },
   {
-    "codigo": 3,
-    "descripción": "Boleta de venta"
+    "codigo": "03",
+    "descripcion": "Boleta de venta"
   },
   {
-    "codigo": 4,
-    "descripción": "Liquidación de compra"
+    "codigo": "04",
+    "descripcion": "Liquidación de compra"
   },
   {
-    "codigo": 5,
-    "descripción": "Boletos de Transporte Aéreo que emiten las Compañías de Aviación Comercial por el servicio de transporte aéreo regular de pasajeros, emitido de manera manual, mecanizada o por medios electrónicos (BME)"
+    "codigo": "05",
+    "descripcion": "Boletos de Transporte Aéreo que emiten las Compañías de Aviación Comercial por el servicio de transporte aéreo regular de pasajeros, emitido de manera manual, mecanizada o por medios electrónicos (BME)"
   },
   {
-    "codigo": 6,
-    "descripción": "Carta de porte aéreo"
+    "codigo": "06",
+    "descripcion": "Carta de porte aéreo"
   },
   {
-    "codigo": 7,
-    "descripción": "Nota de crédito"
+    "codigo": "07",
+    "descripcion": "Nota de crédito"
   },
   {
-    "codigo": 8,
-    "descripción": "Nota de débito"
+    "codigo": "08",
+    "descripcion": "Nota de débito"
   },
   {
-    "codigo": 9,
-    "descripción": "Guía de remisión remitente"
+    "codigo": "09",
+    "descripcion": "Guía de remisión remitente"
   },
   {
-    "codigo": 11,
-    "descripción": "Póliza emitida por las Bolsas de Valores"
+    "codigo": "11",
+    "descripcion": "Póliza emitida por las Bolsas de Valores"
   },
   {
-    "codigo": 12,
-    "descripción": "Ticket de máquina registradora"
+    "codigo": "12",
+    "descripcion": "Ticket de máquina registradora"
   },
   {
-    "codigo": 13,
-    "descripción": "Documento emitido por bancos, instituciones financieras, crediticias y de seguros que se encuentren bajo el control de la Superintendencia de Banca y Seguros"
+    "codigo": "13",
+    "descripcion": "Documento emitido por bancos, instituciones financieras, crediticias y de seguros que se encuentren bajo el control de la Superintendencia de Banca y Seguros"
   },
   {
-    "codigo": 14,
-    "descripción": "Recibo servicios públicos"
+    "codigo": "14",
+    "descripcion": "Recibo servicios públicos"
   },
   {
-    "codigo": 15,
-    "descripción": "Boletos emitidos por el servicio de transporte terrestre regular urbano de pasajeros y el ferroviario público de pasajeros prestado en vía férrea local"
+    "codigo": "15",
+    "descripcion": "Boletos emitidos por el servicio de transporte terrestre regular urbano de pasajeros y el ferroviario público de pasajeros prestado en vía férrea local"
   },
   {
-    "codigo": 16,
-    "descripción": "Boleto de viaje emitido por las empresas de transporte público interprovincial de pasajeros"
+    "codigo": "16",
+    "descripcion": "Boleto de viaje emitido por las empresas de transporte público interprovincial de pasajeros"
   },
   {
-    "codigo": 18,
-    "descripción": "Documentos emitidos por las AFP"
+    "codigo": "18",
+    "descripcion": "Documentos emitidos por las AFP"
   },
   {
-    "codigo": 19,
-    "descripción": "Boleto por atracciones y espectáculos públicos"
+    "codigo": "19",
+    "descripcion": "Boleto por atracciones y espectáculos públicos"
   },
   {
-    "codigo": 20,
-    "descripción": "Comprobante de retención"
+    "codigo": "20",
+    "descripcion": "Comprobante de retención"
   },
   {
-    "codigo": 21,
-    "descripción": "Conocimiento de embarque por el servicio de transporte de carga marítima"
+    "codigo": "21",
+    "descripcion": "Conocimiento de embarque por el servicio de transporte de carga marítima"
   },
   {
-    "codigo": 23,
-    "descripción": "Pólizas de Adjudicación por remate o adjudicación de bienes"
+    "codigo": "23",
+    "descripcion": "Pólizas de Adjudicación por remate o adjudicación de bienes"
   },
   {
-    "codigo": 24,
-    "descripción": "Certificado de pago de regalías emitidas por PERUPETRO S.A."
+    "codigo": "24",
+    "descripcion": "Certificado de pago de regalías emitidas por PERUPETRO S.A."
   },
   {
-    "codigo": 28,
-    "descripción": "Etiquetas por el pago de la Tarifa Unificada de Uso de Aeropuerto – TUUA"
+    "codigo": "28",
+    "descripcion": "Etiquetas por el pago de la Tarifa Unificada de Uso de Aeropuerto – TUUA"
   },
   {
-    "codigo": 29,
-    "descripción": "Documentos emitidos por la COFOPRI"
+    "codigo": "29",
+    "descripcion": "Documentos emitidos por la COFOPRI"
   },
   {
-    "codigo": 30,
-    "descripción": "Documentos emitidos por las empresas que desempeñan el rol adquirente en los sistemas de pago mediante tarjetas de crédito y débito, emitidas por bancos e instituciones financieras o crediticias, domiciliados o no en el país."
+    "codigo": "30",
+    "descripcion": "Documentos emitidos por las empresas que desempeñan el rol adquirente en los sistemas de pago mediante tarjetas de crédito y débito, emitidas por bancos e instituciones financieras o crediticias, domiciliados o no en el país."
   },
   {
-    "codigo": 31,
-    "descripción": "Guía de remisión transportista"
+    "codigo": "31",
+    "descripcion": "Guía de remisión transportista"
   },
   {
-    "codigo": 32,
-    "descripción": "Documentos emitidos por recaudadoras de la Garantía de Red Principal"
+    "codigo": "32",
+    "descripcion": "Documentos emitidos por recaudadoras de la Garantía de Red Principal"
   },
   {
-    "codigo": 34,
-    "descripción": "Documento del Operador"
+    "codigo": "34",
+    "descripcion": "Documento del Operador"
   },
   {
-    "codigo": 35,
-    "descripción": "Documento del Partícipe"
+    "codigo": "35",
+    "descripcion": "Documento del Partícipe"
   },
   {
-    "codigo": 36,
-    "descripción": "Recibo de Distribución de Gas Natural"
+    "codigo": "36",
+    "descripcion": "Recibo de Distribución de Gas Natural"
   },
   {
-    "codigo": 37,
-    "descripción": "Documentos que emitan los concesionarios del servicio de revisiones técnicas"
+    "codigo": "37",
+    "descripcion": "Documentos que emitan los concesionarios del servicio de revisiones técnicas"
   },
   {
-    "codigo": 40,
-    "descripción": "Comprobante de Percepción "
+    "codigo": "40",
+    "descripcion": "Comprobante de Percepción "
   },
   {
-    "codigo": 41,
-    "descripción": "Comprobante de Percepción – Venta interna ( físico - formato impreso)"
+    "codigo": "41",
+    "descripcion": "Comprobante de Percepción – Venta interna ( físico - formato impreso)"
   },
   {
-    "codigo": 42,
-    "descripción": "Documentos emitidos por los adq. en los sistemas de pago por tarj. de crédito emitidas por ellas mismas"
+    "codigo": "42",
+    "descripcion": "Documentos emitidos por los adq. en los sistemas de pago por tarj. de crédito emitidas por ellas mismas"
   },
   {
-    "codigo": 43,
-    "descripción": "Boleto de compañías de aviación transporte aéreo no regular"
+    "codigo": "43",
+    "descripcion": "Boleto de compañías de aviación transporte aéreo no regular"
   },
   {
-    "codigo": 45,
-    "descripción": "Documentos emitidos por centros educativos y culturales, universidades, asociaciones y fundaciones"
+    "codigo": "45",
+    "descripcion": "Documentos emitidos por centros educativos y culturales, universidades, asociaciones y fundaciones"
   },
   {
-    "codigo": 55,
-    "descripción": "BVME para transporte ferroviario de pasajeros"
+    "codigo": "55",
+    "descripcion": "BVME para transporte ferroviario de pasajeros"
   },
   {
-    "codigo": 56,
-    "descripción": "Comprobante de pago SEAE"
+    "codigo": "56",
+    "descripcion": "Comprobante de pago SEAE"
   },
   {
-    "codigo": 71,
-    "descripción": "Guía de remisión remitente complementaria"
+    "codigo": "71",
+    "descripcion": "Guía de remisión remitente complementaria"
   },
   {
-    "codigo": 72,
-    "descripción": "Guía de remisión transportista complementaria"
+    "codigo": "72",
+    "descripcion": "Guía de remisión transportista complementaria"
   },
   {
-    "codigo": 87,
-    "descripción": "Nota de crédito especial"
+    "codigo": "87",
+    "descripcion": "Nota de crédito especial"
   },
   {
-    "codigo": 88,
-    "descripción": "Nota de débito especial"
+    "codigo": "88",
+    "descripcion": "Nota de débito especial"
   }
-]
+ ]

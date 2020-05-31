@@ -1,12 +1,12 @@
-codigo,descripción
-1,Factura
-3,Boleta de venta
-4,Liquidación de compra
-5,"Boletos de Transporte Aéreo que emiten las Compañías de Aviación Comercial por el servicio de transporte aéreo regular de pasajeros, emitido de manera manual, mecanizada o por medios electrónicos (BME)"
-6,Carta de porte aéreo
-7,Nota de crédito
-8,Nota de débito
-9,Guía de remisión remitente
+codigo,descripcion
+01,Factura
+03,Boleta de venta
+04,Liquidación de compra
+05,"Boletos de Transporte Aéreo que emiten las Compañías de Aviación Comercial por el servicio de transporte aéreo regular de pasajeros, emitido de manera manual, mecanizada o por medios electrónicos (BME)"
+06,Carta de porte aéreo
+07,Nota de crédito
+08,Nota de débito
+09,Guía de remisión remitente
 11,Póliza emitida por las Bolsas de Valores
 12,Ticket de máquina registradora
 13,"Documento emitido por bancos, instituciones financieras, crediticias y de seguros que se encuentren bajo el control de la Superintendencia de Banca y Seguros"
@@ -28,7 +28,7 @@ codigo,descripción
 35,Documento del Partícipe
 36,Recibo de Distribución de Gas Natural
 37,Documentos que emitan los concesionarios del servicio de revisiones técnicas
-40,Comprobante de Percepción
+40,Comprobante de Percepción 
 41,Comprobante de Percepción – Venta interna ( físico - formato impreso)
 42,Documentos emitidos por los adq. en los sistemas de pago por tarj. de crédito emitidas por ellas mismas
 43,Boleto de compañías de aviación transporte aéreo no regular
