@@ -1,5 +1,8 @@
 <template>
-    <a :href="link" class="btn btn-primary" download target="_blank">Descargar {{type.toUpperCase()}}</a>
+    <a :href="link" class="btn btn-primary text-white" download target="_blank">
+        <i class="fas fa-download"></i>
+        {{type.toUpperCase()}}
+    </a>
 </template>
 
 <script>

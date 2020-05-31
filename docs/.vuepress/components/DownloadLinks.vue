@@ -1,5 +1,5 @@
 <template>
-    <div class="my-3">
+    <div class="mt-3">
         <div class="btn-group" role="group" aria-label="Basic example">
             <download-link :code="code" type="json"></download-link>
             <download-link :code="code" type="csv"></download-link>

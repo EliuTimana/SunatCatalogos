@@ -15,11 +15,7 @@
                 <a :href="url" target="_blank" v-if="url"><code>{{url}}</code></a>
                 <div>
                     <pre class="text-white small-code" v-if="responseBody">{{responseBody}}</pre>
-                    <div class="overlay d-flex justify-content-center align-items-center" v-if="loadingResponse">
-                        <div class="spinner-border text-primary" role="status">
-                            <span class="sr-only">Loading...</span>
-                        </div>
-                    </div>
+                    <loading-indicator v-if="loadingResponse"></loading-indicator>
                 </div>
             </div>
         </div>
@@ -28,9 +24,11 @@
 
 <script>
     import entrypoints from "../../endpoints"
+    import LoadingIndicator from "./LoadingIndicator";
 
     export default {
         name: "DataFetcher",
+        components: {LoadingIndicator},
         props: ['type'],
         data() {
             return {
@@ -83,13 +81,4 @@
         max-height: 300px;
     }
 
-    .overlay {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        z-index: 3;
-        background-color: rgba(255, 255, 255, 0.7);
-    }
 </style>
