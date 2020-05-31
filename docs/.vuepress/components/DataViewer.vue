@@ -16,7 +16,7 @@
                     <table class="table table-sm" style="display: table">
                         <thead>
                         <tr>
-                            <th v-for="h in headers">{{h}}</th>
+                            <th v-for="h in headers">{{h.toUpperCase()}}</th>
                         </tr>
                         </thead>
                         <tbody>
