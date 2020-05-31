@@ -52,13 +52,12 @@
 </template>
 
 <script>
-    import DownloadLinks from "./DownloadLinks";
     import LoadingIndicator from "./LoadingIndicator";
     import DownloadLink from "./DownloadLink";
 
     export default {
         name: "DataViewer",
-        components: {DownloadLink, LoadingIndicator, DownloadLinks},
+        components: {DownloadLink, LoadingIndicator},
         props: { code: String, isAnexo: {type: Boolean, default: true}},
         data() {
             return {
