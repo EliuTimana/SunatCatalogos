@@ -58,15 +58,24 @@
     export default {
         name: "DataViewer",
         components: {DownloadLink, LoadingIndicator},
-        props: { code: String, isAnexo: {type: Boolean, default: true}},
+        props: {
+            code: String,
+            isAnexo: {
+                type: Boolean,
+                default: true
+            },
+            pageSize: {
+                type: Number,
+                default: 5
+            }
+        },
         data() {
             return {
                 responseBody: '',
                 loadingResponse: false,
                 headers: [],
                 rows: [],
-                page: 1,
-                pageSize: 5
+                page: 1
             };
         },
         computed: {
@@ -79,7 +88,7 @@
         },
         methods: {
             getUrl(code) {
-                if(this.isAnexo) {
+                if (this.isAnexo) {
                     return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/08/${code}.json`;
                 } else {
                     return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/${code}.json`;
