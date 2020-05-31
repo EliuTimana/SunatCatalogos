@@ -7,7 +7,7 @@
                     <div class="input-group">
                         <select :id="'select-fetcher-' + type" class="custom-select" v-model="selectedItem" @change="fetchData()">
                             <option v-for="(e, index) in entries" :value="e.code">
-                                {{e.label}}
+                                {{e.code + ' - ' + e.label}}
                             </option>
                         </select>
                         <div class="input-group-append" v-if="responseBody">
