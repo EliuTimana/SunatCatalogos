@@ -29,7 +29,7 @@
                 <nav aria-label="Page navigation example" v-if="entries.length>0 && pages > 1">
                     <ul class="pagination justify-content-center">
                         <li class="page-item" :class="{disabled: page===1 || pages === 0}">
-                            <a class="page-link" href="#" tabindex="-1" @click.prevent="page=1">Inicio</a>
+                            <a class="page-link" href="#" tabindex="-1" @click.prevent="page=1">&laquo;</a>
                         </li>
                         <li class="page-item" :class="{disabled: page===1 || pages === 0}">
                             <a class="page-link" href="#" tabindex="-1" @click.prevent="page--">Anterior</a>
@@ -41,7 +41,7 @@
                             <a class="page-link" href="#" @click.prevent="page++">Siguiente</a>
                         </li>
                         <li class="page-item" :class="{disabled: page===pages || pages === 0}">
-                            <a class="page-link" href="#" @click.prevent="page=pages">Final</a>
+                            <a class="page-link" href="#" @click.prevent="page=pages">&raquo;</a>
                         </li>
                     </ul>
                 </nav>
@@ -75,7 +75,7 @@
                 return this.rows.slice((this.page - 1) * this.pageSize, this.page * this.pageSize);
             },
             pages() {
-                return Math.round(this.rows.length / this.pageSize);
+                return Math.ceil(this.rows.length / this.pageSize);
             }
         },
         methods: {
