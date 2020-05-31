@@ -1,5 +1,5 @@
 <template>
-    <a :href="link" class="btn btn-success mr-2" download target="_blank">Descargar {{type.toUpperCase()}}</a>
+    <a :href="link" class="btn btn-primary" download target="_blank">Descargar {{type.toUpperCase()}}</a>
 </template>
 
 <script>

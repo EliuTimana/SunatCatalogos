@@ -1,8 +1,8 @@
 ---
-lang: es-PE
+
 ---
 
-# Anexo N.°8: Catálogo de códigos
+# Anexo N° 8
 
 [[toc]]
 

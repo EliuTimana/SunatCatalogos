@@ -1,8 +1,10 @@
 <template>
     <div class="my-3">
-        <download-link :code="code" type="json"></download-link>
-        <download-link :code="code" type="csv"></download-link>
-        <download-link :code="code" type="sql"></download-link>
+        <div class="btn-group" role="group" aria-label="Basic example">
+            <download-link :code="code" type="json"></download-link>
+            <download-link :code="code" type="csv"></download-link>
+            <download-link :code="code" type="sql"></download-link>
+        </div>
     </div>
 </template>
 

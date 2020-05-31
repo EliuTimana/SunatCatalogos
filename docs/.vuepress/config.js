@@ -1,6 +1,6 @@
-module.exports = {
+module.exports = ctx => ({
     title: 'Sunat Catálogos',
-    description: 'Catálogos de SUNAT para facturación electrónica.',
+    description: 'Lista de catálogos y códigos utilizados por SUNAT para facturación electrónica.',
     base: '/SunatCatalogos/',
     locales: {
         '/': {
@@ -43,8 +43,9 @@ module.exports = {
             serviceWorker: true,
             updatePopup: {
                 message: "Nuevo contenido disponible.",
+                popupComponent: 'MySWUpdatePopup',
                 buttonText: "Actualizar"
             }
         }
     }
-}
+})
