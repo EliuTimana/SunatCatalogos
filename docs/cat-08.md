@@ -4,6 +4,7 @@ pageClass: content-page-w100
 
 # Anexo N° 8
 
+[[toc]]
 
 ## N° 01 - Tipo de documento
 <data-viewer code="01"></data-viewer>
