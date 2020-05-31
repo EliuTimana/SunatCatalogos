@@ -8,10 +8,14 @@
 <script>
     export default {
         name: "download-link",
-        props: ['code', 'type'],
+        props: ['code', 'type', 'isAnexo'],
         computed: {
             link() {
-                return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/08/${this.code}.${this.type}`;
+                if(this.isAnexo) {
+                    return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/08/${this.code}.${this.type}`;
+                } else {
+                    return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/${this.code}.${this.type}`;
+                }
             }
         }
     }

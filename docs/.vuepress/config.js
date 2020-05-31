@@ -13,7 +13,8 @@ module.exports = ctx => ({
         logo: '/icons/android-chrome-192x192.png',
         sidebar: [
             '/',
-            'cat-08'
+            'cat-08',
+            'errors'
         ]
     },
     head: [

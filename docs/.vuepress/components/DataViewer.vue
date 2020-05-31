@@ -7,9 +7,9 @@
                         <button class="btn btn-success" @click="fetchData()">
                             <i class="fas fa-redo-alt"></i> Cargar
                         </button>
-                        <download-link :code="code" type="json"></download-link>
-                        <download-link :code="code" type="csv"></download-link>
-                        <download-link :code="code" type="sql"></download-link>
+                        <download-link :code="code" type="json" :is-anexo="isAnexo"></download-link>
+                        <download-link :code="code" type="csv" :is-anexo="isAnexo"></download-link>
+                        <download-link :code="code" type="sql" :is-anexo="isAnexo"></download-link>
                     </div>
                 </div>
                 <div class="table-responsive">
@@ -59,7 +59,7 @@
     export default {
         name: "DataViewer",
         components: {DownloadLink, LoadingIndicator, DownloadLinks},
-        props: ['code'],
+        props: { code: String, isAnexo: {type: Boolean, default: true}},
         data() {
             return {
                 responseBody: '',
@@ -80,7 +80,11 @@
         },
         methods: {
             getUrl(code) {
-                return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/08/${code}.json`;
+                if(this.isAnexo) {
+                    return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/08/${code}.json`;
+                } else {
+                    return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/${code}.json`;
+                }
             },
             fetchData() {
                 this.rows = [];
