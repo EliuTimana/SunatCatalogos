@@ -92,3 +92,11 @@ h1, h2, h3, h4, h5, h6 {
 .btn {
   text-decoration: none !important;
 }
+
+//bootstrap pagination
+.pagination {
+  a {
+    font-weight: 400;
+    text-decoration: none !important;
+  }
+}
