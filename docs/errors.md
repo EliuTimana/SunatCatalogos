@@ -3,4 +3,4 @@ pageClass: content-page-w100
 ---
 
 # Códigos de error u observación
-<data-viewer code="errors" :is-anexo="false" :page-size="10"></data-viewer>
+<data-viewer code="errors" :is-anexo="false" :rows-per-page="10"></data-viewer>

@@ -19,7 +19,12 @@
                 <div class="row mt-3">
                     <div class="col-12">
                         <div class="form-group mb-0">
-                            <input type="search" class="form-control" placeholder="Buscar" v-model="filter">
+                            <div class="input-group">
+                                <input type="search" class="form-control w-75" placeholder="Buscar" v-model="filter">
+                                <select class="custom-select" v-model="pageSize">
+                                    <option v-for="t in [5,10,20,50]" :value="t">{{t}}</option>
+                                </select>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -43,13 +48,13 @@
                             <a class="page-link" href="#" tabindex="-1" @click.prevent="page=1">&laquo;</a>
                         </li>
                         <li class="page-item" :class="{disabled: page===1 || pages === 0}">
-                            <a class="page-link" href="#" tabindex="-1" @click.prevent="page--">Anterior</a>
+                            <a class="page-link" href="#" tabindex="-1" @click.prevent="page--">&lsaquo;</a>
                         </li>
                         <li class="page-item disabled">
                             <a class="page-link" href="#">{{page}}/{{pages}}</a>
                         </li>
                         <li class="page-item" :class="{disabled: page===pages || pages === 0}">
-                            <a class="page-link" href="#" @click.prevent="page++">Siguiente</a>
+                            <a class="page-link" href="#" @click.prevent="page++">&rsaquo;</a>
                         </li>
                         <li class="page-item" :class="{disabled: page===pages || pages === 0}">
                             <a class="page-link" href="#" @click.prevent="page=pages">&raquo;</a>
@@ -74,7 +79,7 @@
                 type: Boolean,
                 default: true
             },
-            pageSize: {
+            rowsPerPage: {
                 type: Number,
                 default: 5
             },
@@ -90,6 +95,7 @@
                 headers: [],
                 rows: [],
                 page: 1,
+                pageSize: this.rowsPerPage,
                 filter: ''
             };
         },
