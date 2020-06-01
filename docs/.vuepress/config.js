@@ -39,11 +39,6 @@ module.exports = ctx => ({
         ['link', {
             href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css',
             rel: "stylesheet"
-        }],
-        ['script', {
-            'data-ad-client': 'ca-pub-9384967978631761',
-            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
-            async: ''
         }]
     ],
     plugins: {
