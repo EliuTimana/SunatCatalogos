@@ -18,7 +18,7 @@ module.exports = ctx => ({
         editLinks: true,
         editLinkText: 'Editar esta página',
         sidebar: [
-            '/',
+            'get-started',
             'cat-08',
             'errors'
         ]

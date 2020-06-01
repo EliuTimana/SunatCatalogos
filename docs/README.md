@@ -1,27 +1,15 @@
 ---
-pageClass: content-page-w100
-sidebarDepth: 3
+home: true
+heroText: Sunat Docs
+tagline: Documentación para facturación electronica
+actionText: Empezar
+actionLink: /get-started
+features:
+- title: Catálogos
+  details: Todos los catálogos y parámetros necesarios para emitir documentos electrónicos en multiples formatos (JSON, CSV, SQL)
+- title: Guías
+  details: Tutoriales y preguntas frecuentes para emitir documentos electrónicos
+- title: Actualizado
+  details: Contenido siempre al día de acuerdo a las actualizaciones de SUNAT
+footer: MIT Licensed | Copyright © 2020 Eliú Timaná
 ---
-
-# Catálogos de SUNAT
-Lista de catálogos utilizados por SUNAT para facturación electrónica.
-
-## ¿Cómo utilizarlo?
-### Consume los endpoints JSON
-```javascript
-const code = '01';
-let response;
-const url = `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/08/${code}.json`; 
-fetch(url).then((r) => {
-    r.json().then(data => {
-        response = data; // Json response
-    });
-})
-```
-<data-fetcher type="json"></data-fetcher>
-
-### Descarga los archivos CSV
-<data-fetcher type="csv"></data-fetcher>
-
-### Descarga las tablas SQL
-<data-fetcher type="sql"></data-fetcher>

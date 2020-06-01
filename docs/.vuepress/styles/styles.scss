@@ -103,3 +103,22 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none !important;
   }
 }
+
+//hero
+.home .hero .action-button {
+  color: #fff;
+  background-color: #007bff !important;
+  border-color: #007bff !important;
+
+  &:hover {
+    background-color: #0069d9 !important;
+    border-color: #0062cc !important;
+  }
+
+  &:focus {
+    /*color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;*/
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, .5) !important;
+  }
+}
