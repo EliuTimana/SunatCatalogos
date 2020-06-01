@@ -4,7 +4,7 @@
             <div style="position: relative">
                 <div class="mt-3 text-center">
                     <div class="btn-group" role="group" aria-label="Basic example">
-                        <button class="btn btn-success" @click="fetchData()" :disabled="loadingResponse">
+                        <button class="btn btn-success" @click="fetchData(true)" :disabled="loadingResponse">
                             <span class="spinner-border spinner-border-sm"
                                   role="status"
                                   aria-hidden="true"
@@ -129,24 +129,39 @@
                     return `https://raw.githubusercontent.com/EliuTimana/SunatCatalogos/master/data/${code}.json`;
                 }
             },
-            fetchData() {
+            fetchData(force = false) {
+                this.loadingResponse = true;
                 this.page = 1;
                 const url = this.getUrl(this.code);
-                this.loadingResponse = true;
+                if (!force) {
+                    const cachedData = localStorage.getItem(url);
+                    if (cachedData) {
+                        try {
+                            this.parseData(JSON.parse(cachedData));
+                            this.loadingResponse = false;
+                            return;
+                        } catch (e) {
+                        }
+                    }
+                }
+
                 fetch(url)
                     .then(r => r.json())
                     .then(data => {
-                        this.rows = [];
-                        this.headers = [];
-                        this.responseBody = data;
-                        if (data.length > 0) {
-                            this.headers = Object.keys(data[0]);
-                            data.forEach(d => {
-                                this.rows.push(Object.values(d));
-                            });
-                            this.loadingResponse = false;
-                        }
+                        this.parseData(data);
+                        localStorage.setItem(url, JSON.stringify(data));
+                        this.loadingResponse = false;
                     });
+            },
+            parseData(data) {
+                this.rows = [];
+                this.headers = [];
+                if (data.length > 0) {
+                    this.headers = Object.keys(data[0]);
+                    data.forEach(d => {
+                        this.rows.push(Object.values(d));
+                    });
+                }
             }
         }
     }
