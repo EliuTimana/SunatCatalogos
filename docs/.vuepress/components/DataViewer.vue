@@ -16,6 +16,13 @@
                         <download-link :code="code" type="sql" :is-anexo="isAnexo"></download-link>
                     </div>
                 </div>
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <div class="form-group mb-0">
+                            <input type="search" class="form-control" placeholder="Buscar" v-model="filter">
+                        </div>
+                    </div>
+                </div>
                 <div class="table-responsive">
                     <table class="table table-sm" style="display: table">
                         <thead>
@@ -82,15 +89,25 @@
                 loadingResponse: false,
                 headers: [],
                 rows: [],
-                page: 1
+                page: 1,
+                filter: ''
             };
         },
         computed: {
             entries() {
-                return this.rows.slice((this.page - 1) * this.pageSize, this.page * this.pageSize);
+                return this.filteredEntries.slice((this.page - 1) * this.pageSize, this.page * this.pageSize);
+            },
+            filteredEntries() {
+                let allRows = this.rows;
+                let filteredRows = this.rows;
+                if (this.filter) {
+                    filteredRows = filteredRows.map(r => r.join(' ')).filter(r => r.toLowerCase().includes(this.filter.trim().toLowerCase()))
+                    allRows = allRows.filter(r => filteredRows.includes(r.join(' ')));
+                }
+                return allRows;
             },
             pages() {
-                return Math.ceil(this.rows.length / this.pageSize);
+                return Math.ceil(this.filteredEntries.length / this.pageSize);
             }
         },
         mounted() {
