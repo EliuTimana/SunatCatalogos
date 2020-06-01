@@ -4,8 +4,9 @@
             <div style="position: relative">
                 <div class="mt-3 text-center">
                     <div class="btn-group" role="group" aria-label="Basic example">
-                        <button class="btn btn-success" @click="fetchData()">
-                            <i class="fas fa-redo-alt"></i> Cargar
+                        <button class="btn btn-success" @click="fetchData()" :disabled="loadingResponse">
+                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true" v-if="loadingResponse"></span>
+                            <i class="fas fa-redo-alt" v-else></i> Cargar
                         </button>
                         <download-link :code="code" type="json" :is-anexo="isAnexo"></download-link>
                         <download-link :code="code" type="csv" :is-anexo="isAnexo"></download-link>
@@ -45,7 +46,7 @@
                         </li>
                     </ul>
                 </nav>
-                <loading-indicator v-if="loadingResponse"></loading-indicator>
+<!--                <loading-indicator v-if="loadingResponse"></loading-indicator>-->
             </div>
         </div>
     </div>
