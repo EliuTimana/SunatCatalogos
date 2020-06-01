@@ -50,9 +50,9 @@ module.exports = ctx => ({
     plugins: {
         '@vuepress/pwa': {
             serviceWorker: true,
+            popupComponent: 'MySWUpdatePopup',
             updatePopup: {
                 message: "Nuevo contenido disponible.",
-                popupComponent: 'MySWUpdatePopup',
                 buttonText: "Actualizar"
             }
         }
