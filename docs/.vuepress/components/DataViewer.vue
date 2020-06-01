@@ -5,7 +5,10 @@
                 <div class="mt-3 text-center">
                     <div class="btn-group" role="group" aria-label="Basic example">
                         <button class="btn btn-success" @click="fetchData()" :disabled="loadingResponse">
-                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true" v-if="loadingResponse"></span>
+                            <span class="spinner-border spinner-border-sm"
+                                  role="status"
+                                  aria-hidden="true"
+                                  v-if="loadingResponse"></span>
                             <i class="fas fa-redo-alt" v-else></i> Cargar
                         </button>
                         <download-link :code="code" type="json" :is-anexo="isAnexo"></download-link>
@@ -46,7 +49,6 @@
                         </li>
                     </ul>
                 </nav>
-<!--                <loading-indicator v-if="loadingResponse"></loading-indicator>-->
             </div>
         </div>
     </div>
@@ -68,6 +70,10 @@
             pageSize: {
                 type: Number,
                 default: 5
+            },
+            autoload: {
+                type: Boolean,
+                default: true
             }
         },
         data() {
@@ -87,6 +93,11 @@
                 return Math.ceil(this.rows.length / this.pageSize);
             }
         },
+        mounted() {
+            if (this.autoload) {
+                this.fetchData();
+            }
+        },
         methods: {
             getUrl(code) {
                 if (this.isAnexo) {
@@ -96,14 +107,14 @@
                 }
             },
             fetchData() {
-                this.rows = [];
-                this.headers = [];
                 this.page = 1;
                 const url = this.getUrl(this.code);
                 this.loadingResponse = true;
                 fetch(url)
                     .then(r => r.json())
                     .then(data => {
+                        this.rows = [];
+                        this.headers = [];
                         this.responseBody = data;
                         if (data.length > 0) {
                             this.headers = Object.keys(data[0]);
