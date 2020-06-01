@@ -9,6 +9,7 @@ module.exports = ctx => ({
     },
     themeConfig: {
         searchPlaceholder: 'Buscar...',
+        smoothScroll: true,
         lastUpdated: 'Última Actualización',
         logo: '/icons/android-chrome-192x192.png',
         repo: 'eliutimana/SunatCatalogos',
