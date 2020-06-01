@@ -11,6 +11,11 @@ module.exports = ctx => ({
         searchPlaceholder: 'Buscar...',
         lastUpdated: 'Última Actualización',
         logo: '/icons/android-chrome-192x192.png',
+        repo: 'eliutimana/SunatCatalogos',
+        docsBranch: 'site',
+        docsDir: 'docs',
+        editLinks: true,
+        editLinkText: 'Editar esta página',
         sidebar: [
             '/',
             'cat-08',
