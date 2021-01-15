@@ -23,4 +23,5 @@ INSERT INTO table_53(codigo,descripcion,nivel) VALUES
 ,('53','Percepción realizada al agente de percepción con tasa especial','Global')
 ,('54','Factor de aportación - Decreto de urgencia N. 010-2004','Item')
 ,('60','Deducción de ISC por anticipos','Global')
-,('61','Retención de renta por anticipos','Global');
+,('61','Retención de renta por anticipos','Global'),
+,('62','Retención del IGV','Global');

@@ -46,5 +46,9 @@
   {
     "codigo": "12",
     "descripcion": "Ajustes afectos al IVAP"
+  },
+  {
+    "codigo": "13",
+    "descripcion": "Corrección del monto neto pendiente de pago y/o la(s) fechas(s) de vencimiento del pago único o de las cuotas y/o los montos correspondientes a cada cuota, de ser el caso."
   }
 ]

@@ -98,5 +98,10 @@
     "codigo": "61",
     "descripcion": "Retención de renta por anticipos",
     "nivel": "Global"
+  },
+  {
+    "codigo": "62",
+    "descripcion": "Retención del IGV",
+    "nivel": "Global"
   }
 ]
